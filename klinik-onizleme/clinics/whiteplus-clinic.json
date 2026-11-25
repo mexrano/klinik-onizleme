@@ -1,0 +1,136 @@
+{
+  "name": "WhitePlus Clinic",
+  "shortName": "WhitePlus Clinic",
+  "shortNameAr": "WhitePlus Clinic",
+  "url": "https://whiteplusclinic.com/",
+  "phone": "+90 546 221 22 33",
+  "whatsapp": "905462212233",
+  "instagram": "",
+  "address": "Park Mavera2, Kayabaşı, Kayaşehir Blv D:2 T1 No.46 LY, 34494 kayaşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Kayaşehir",
+  "neighborhoodAr": "باشاك شهير",
+  "localAreas": [
+    "Başakşehir",
+    "Kayaşehir",
+    "Kayabaşı",
+    "Bahçeşehir",
+    "Fenertepe"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياشهير",
+    "كاياباشي",
+    "باهجة شهير",
+    "فنرتبه"
+  ],
+  "coords": {
+    "lat": 41.1224792,
+    "lng": 28.7705073
+  },
+  "hours": [
+    [
+      "11:00",
+      "21:00"
+    ],
+    [
+      "11:00",
+      "21:00"
+    ],
+    [
+      "11:00",
+      "21:00"
+    ],
+    [
+      "11:00",
+      "21:00"
+    ],
+    [
+      "11:00",
+      "21:00"
+    ],
+    [
+      "11:00",
+      "21:00"
+    ],
+    [
+      "11:00",
+      "21:00"
+    ]
+  ],
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Diş Hekimi",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "WhitePlus Clinic Hekim Kadrosu",
+      "uni": {
+        "tr": "WhitePlus Clinic",
+        "en": "WhitePlus Clinic",
+        "ar": "WhitePlus Clinic"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Zirkonyum",
+          "Estetik"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Zirconia",
+          "Aesthetics"
+        ],
+        "ar": [
+          "زراعة الأسنان",
+          "زركونيوم",
+          "تجميل الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Uzman Kadro",
+        "en": "Specialist Team",
+        "ar": "الفريق المتخصص"
+      },
+      "name": "Ortodonti & Pedodonti",
+      "uni": {
+        "tr": "WhitePlus Clinic",
+        "en": "WhitePlus Clinic",
+        "ar": "WhitePlus Clinic"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Şeffaf Plak",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Aligners",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "التقويم الشفاف",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ]
+}

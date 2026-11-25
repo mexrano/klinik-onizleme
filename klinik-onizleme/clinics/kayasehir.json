@@ -1,0 +1,133 @@
+{
+  "name": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Kayaşehir",
+  "shortNameAr": "Kayaşehir",
+  "url": "http://www.kayasehirdis.com/",
+  "phone": "+90 534 641 60 64",
+  "whatsapp": "905346416064",
+  "instagram": "",
+  "address": "BF Levent Börek Yanı, Kayabaşı Mh. Gazi Yaşargil Cad. Park Mavera 1.Etap Dükkanları, A06 Blok No:15, 34000 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Kayaşehir",
+  "neighborhoodAr": "باشاك شهير",
+  "localAreas": [
+    "Başakşehir",
+    "Kayaşehir",
+    "Kayabaşı",
+    "Bahçeşehir",
+    "Fenertepe"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياشهير",
+    "كاياباشي",
+    "باهجة شهير",
+    "فنرتبه"
+  ],
+  "coords": {
+    "lat": 41.1175997,
+    "lng": 28.770973
+  },
+  "hours": [
+    null,
+    [
+      "09:30",
+      "19:30"
+    ],
+    [
+      "09:30",
+      "19:30"
+    ],
+    [
+      "09:30",
+      "19:30"
+    ],
+    [
+      "09:30",
+      "19:30"
+    ],
+    [
+      "09:30",
+      "19:30"
+    ],
+    [
+      "09:30",
+      "17:30"
+    ]
+  ],
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Diş Hekimi",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Kayaşehir Hekim Kadrosu",
+      "uni": {
+        "tr": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
+        "ar": "Kayaşehir"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Zirkonyum",
+          "Estetik"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Zirconia",
+          "Aesthetics"
+        ],
+        "ar": [
+          "زراعة الأسنان",
+          "زركونيوم",
+          "تجميل الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Uzman Kadro",
+        "en": "Specialist Team",
+        "ar": "الفريق المتخصص"
+      },
+      "name": "Ortodonti & Pedodonti",
+      "uni": {
+        "tr": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
+        "ar": "Kayaşehir"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Şeffaf Plak",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Aligners",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "التقويم الشفاف",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ]
+}

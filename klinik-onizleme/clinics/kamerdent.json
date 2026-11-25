@@ -1,0 +1,141 @@
+{
+  "name": "Başakşehir Kamerdent Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Kamerdent",
+  "shortNameAr": "كامردنت",
+  "url": "https://kamerdent.com/",
+  "phone": "+90 552 824 26 50",
+  "whatsapp": "905528242650",
+  "instagram": "https://www.instagram.com/kamerdentpoliklinik/",
+  "address": "Kayabaşı Mah., Kayaşehir Blv. No:30, Adım İstanbul Sitesi A-1 Blok Dükkan:36AI, 34494 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Kayabaşı · Adım İstanbul",
+  "neighborhoodAr": "كاياباشي · آديم إسطنبول",
+  "localAreas": [
+    "Başakşehir",
+    "Kayabaşı",
+    "Bahçeşehir",
+    "Kayaşehir",
+    "İkitelli",
+    "Şahintepe"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياباشي",
+    "باهجة شهير",
+    "كاياشهير",
+    "إيكيتيلي",
+    "شاهين تبه"
+  ],
+  "coords": {
+    "lat": 41.1190951,
+    "lng": 28.7669229
+  },
+  "hours": [
+    null,
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ]
+  ],
+  "accessNote": {
+    "tr": "Adım İstanbul A-1 Blok'ta, Kayaşehir Merkez Metro yakınında, site otoparkı ile.",
+    "en": "At Adım İstanbul A-1 Block near Kayaşehir Metro, with on-site parking.",
+    "ar": "في آديم إسطنبول بلوك A-1 بالقرب من المترو مع موقف سيارات."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيبة أسنان"
+      },
+      "name": "Kamer Şeyda Toklar",
+      "uni": {
+        "tr": "Kurucu Diş Hekimi · Kamerdent",
+        "en": "Founder Dentist · Kamerdent",
+        "ar": "طبيبة الأسنان المؤسسة · كامردنت"
+      },
+      "tags": {
+        "tr": [
+          "Estetik Diş Hekimliği",
+          "İmplant",
+          "Gülüş Tasarımı"
+        ],
+        "en": [
+          "Cosmetic Dentistry",
+          "Implants",
+          "Smile Design"
+        ],
+        "ar": [
+          "تجميل الأسنان",
+          "زراعة الأسنان",
+          "تصميم الابتسامة"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN"
+      ]
+    },
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Uzman Kadro",
+        "en": "Clinical Team",
+        "ar": "الفريق المتخصص"
+      },
+      "name": "Kamerdent Hekimleri",
+      "uni": {
+        "tr": "Kamerdent Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Kamerdent Dental Polyclinic",
+        "ar": "عيادة كامردنت لصحة الفم والأسنان"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Kanal Tedavisi",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Root Canal",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "علاج العصب",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 177
+}

@@ -1,0 +1,133 @@
+{
+  "name": "Zarif Diş Kliniği",
+  "shortName": "Zarif",
+  "shortNameAr": "Zarif",
+  "url": "https://zarifdisklinigi.com/",
+  "phone": "+90 533 599 27 43",
+  "whatsapp": "905335992743",
+  "instagram": "",
+  "address": "Başakşehir mah. İshakpaşa sk. Nidapark Evleri F blok No:8FH, 34480 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Başakşehir",
+  "neighborhoodAr": "باشاك شهير",
+  "localAreas": [
+    "Başakşehir",
+    "Kayabaşı",
+    "Kayaşehir",
+    "Bahçeşehir",
+    "İkitelli"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياباشي",
+    "كاياشهير",
+    "باهجة شهير",
+    "إيكيتيلي"
+  ],
+  "coords": {
+    "lat": 41.0934833,
+    "lng": 28.7747109
+  },
+  "hours": [
+    null,
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ],
+    [
+      "09:00",
+      "20:00"
+    ]
+  ],
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Mustafa",
+      "uni": {
+        "tr": "Zarif Diş Kliniği",
+        "en": "Zarif Diş Kliniği",
+        "ar": "Zarif"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Aesthetics",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Süleyman",
+      "uni": {
+        "tr": "Zarif Diş Kliniği",
+        "en": "Zarif Diş Kliniği",
+        "ar": "Zarif"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Kanal Tedavisi",
+          "Diş Eti Tedavisi"
+        ],
+        "en": [
+          "Orthodontics",
+          "Root Canal",
+          "Gum Treatment"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "علاج العصب",
+          "علاج اللثة"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ]
+}

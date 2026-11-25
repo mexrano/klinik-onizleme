@@ -1,0 +1,136 @@
+{
+  "name": "FERADENT BAŞAKŞEHİR | Ağız ve Diş Sağlığı Polikliniği | Başakşehir Diş",
+  "shortName": "Feradent Başakşehir",
+  "shortNameAr": "Feradent Başakşehir",
+  "url": "https://ozelferdent.com/",
+  "phone": "+90 553 352 33 72",
+  "whatsapp": "905533523372",
+  "instagram": "",
+  "address": "Başakşehir, Toros Cd arterium 6.kısım no:6f dükkan 1B 07, 34480 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Başakşehir",
+  "neighborhoodAr": "باشاك شهير",
+  "localAreas": [
+    "Başakşehir",
+    "Kayabaşı",
+    "Kayaşehir",
+    "Bahçeşehir",
+    "İkitelli"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياباشي",
+    "كاياشهير",
+    "باهجة شهير",
+    "إيكيتيلي"
+  ],
+  "coords": {
+    "lat": 41.1022125,
+    "lng": 28.7864456
+  },
+  "hours": [
+    [
+      "11:00",
+      "23:00"
+    ],
+    [
+      "09:00",
+      "23:00"
+    ],
+    [
+      "09:00",
+      "23:00"
+    ],
+    [
+      "09:00",
+      "23:00"
+    ],
+    [
+      "09:00",
+      "23:00"
+    ],
+    [
+      "09:00",
+      "23:00"
+    ],
+    [
+      "09:00",
+      "23:00"
+    ]
+  ],
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Ferhat",
+      "uni": {
+        "tr": "FERADENT BAŞAKŞEHİR | Ağız ve Diş Sağlığı Polikliniği | Başakşehir Diş",
+        "en": "FERADENT BAŞAKŞEHİR | Ağız ve Diş Sağlığı Polikliniği | Başakşehir Diş",
+        "ar": "Feradent Başakşehir"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Aesthetics",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Uzman Kadro",
+        "en": "Clinical Team",
+        "ar": "الفريق المتخصص"
+      },
+      "name": "Feradent Başakşehir Hekimleri",
+      "uni": {
+        "tr": "FERADENT BAŞAKŞEHİR | Ağız ve Diş Sağlığı Polikliniği | Başakşehir Diş",
+        "en": "FERADENT BAŞAKŞEHİR | Ağız ve Diş Sağlığı Polikliniği | Başakşehir Diş",
+        "ar": "Feradent Başakşehir"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Aesthetics",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "تجميل الأسنان",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ]
+}
