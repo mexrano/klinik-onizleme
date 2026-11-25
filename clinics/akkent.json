@@ -1,0 +1,141 @@
+{
+  "name": "Özel Akkent Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Akkent Diş Kliniği",
+  "shortNameAr": "عيادة Akkent Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=akkent",
+  "phone": "+90 536 543 29 19",
+  "whatsapp": "905365432919",
+  "instagram": "",
+  "address": "GTA Towers, Akkent Mahallesi, 134005, Nolu Cd 7/A2 A Blok, 27000 Şahinbey",
+  "district": "Şahinbey",
+  "districtAr": "شاهين بيه",
+  "neighborhood": "Gaziantep",
+  "neighborhoodAr": "غازي عنتاب",
+  "localAreas": [
+    "Şahinbey",
+    "Gaziantep",
+    "Şehitkamil"
+  ],
+  "localAreasAr": [
+    "شاهين بيه",
+    "غازي عنتاب"
+  ],
+  "coords": {
+    "lat": 37.0148999,
+    "lng": 37.3629475
+  },
+  "placeId": "ChIJ-ZNi1iblMRURJXA7W_Eho84",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şahinbey",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şahinbey",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شاهين بيه"
+  },
+  "accessNote": {
+    "tr": "GTA Towers, Akkent Mahallesi, 134005, Nolu Cd 7/A2 A Blok, 27000 Şahinbey adresinde merkezi konumda.",
+    "en": "Centrally located at GTA Towers, Akkent Mahallesi, 134005, Nolu Cd 7/A2 A Blok, 27000 Şahinbey.",
+    "ar": "في موقع مركزي: GTA Towers, Akkent Mahallesi, 134005, Nolu Cd 7/A2 A Blok, 27000 Şahinbey."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Başta Ertuğrul",
+      "uni": {
+        "tr": "Akkent Diş Kliniği · Şahinbey / Gaziantep",
+        "en": "Akkent Diş Kliniği · Şahinbey / Gaziantep",
+        "ar": "Akkent Diş Kliniği · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Akkent Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Özel Akkent Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Akkent Diş Kliniği Dental Clinic · Gaziantep",
+        "ar": "عيادة Akkent Diş Kliniği لطب الأسنان · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.6,
+  "reviewsCount": 32
+}

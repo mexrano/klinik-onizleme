@@ -1,64 +1,68 @@
 {
   "name": "MossDental Ağız ve Diş Sağlığı Polikliniği",
   "shortName": "MossDental",
-  "shortNameAr": "MossDental",
-  "url": "",
+  "shortNameAr": "عيادة MossDental",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mossdental",
   "phone": "+90 543 485 00 70",
   "whatsapp": "905434850070",
   "instagram": "",
   "address": "Başakşehir, Prof. Dr. Necmettin Erbakan Cd 7A, 34480 Başakşehir/İstanbul",
   "district": "Başakşehir",
   "districtAr": "باشاك شهير",
-  "neighborhood": "Başakşehir",
-  "neighborhoodAr": "باشاك شهير",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
   "localAreas": [
     "Başakşehir",
-    "Kayabaşı",
-    "Kayaşehir",
-    "Bahçeşehir",
-    "İkitelli"
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
   ],
   "localAreasAr": [
     "باشاك شهير",
-    "كاياباشي",
-    "كاياشهير",
-    "باهجة شهير",
-    "إيكيتيلي"
+    "إسطنبول"
   ],
   "coords": {
     "lat": 41.100273,
     "lng": 28.788941
   },
+  "placeId": "ChIJ2ecvO0CvyhQRl4qeMjKLF0A",
   "hours": [
+    null,
     [
-      "11:00",
-      "23:00"
+      "09:00",
+      "19:30"
     ],
     [
       "09:00",
-      "23:00"
+      "19:30"
     ],
     [
       "09:00",
-      "23:00"
+      "19:30"
     ],
     [
       "09:00",
-      "23:00"
+      "19:30"
     ],
     [
       "09:00",
-      "23:00"
+      "19:30"
     ],
     [
       "09:00",
-      "23:00"
-    ],
-    [
-      "09:00",
-      "23:00"
+      "18:00"
     ]
   ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Başakşehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Başakşehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · باشاك شهير"
+  },
+  "accessNote": {
+    "tr": "Başakşehir, Prof. Dr. Necmettin Erbakan Cd 7A, 34480 Başakşehir/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Başakşehir, Prof. Dr. Necmettin Erbakan Cd 7A, 34480 Başakşehir/İstanbul.",
+    "ar": "في موقع مركزي: Başakşehir, Prof. Dr. Necmettin Erbakan Cd 7A, 34480 Başakşehir/İstanbul."
+  },
   "doctors": [
     {
       "photo": "/img/doc1.webp",
@@ -69,23 +73,23 @@
       },
       "name": "Ahmet Hamdi",
       "uni": {
-        "tr": "MossDental Ağız ve Diş Sağlığı Polikliniği",
-        "en": "MossDental Ağız ve Diş Sağlığı Polikliniği",
-        "ar": "MossDental"
+        "tr": "MossDental · Başakşehir / İstanbul",
+        "en": "MossDental · Başakşehir / İstanbul",
+        "ar": "MossDental · إسطنبول"
       },
       "tags": {
         "tr": [
           "İmplant & Cerrahi",
-          "Estetik",
+          "Estetik Diş Hekimliği",
           "Zirkonyum"
         ],
         "en": [
           "Implants & Surgery",
-          "Aesthetics",
+          "Cosmetic Dentistry",
           "Zirconia"
         ],
         "ar": [
-          "زراعة الأسنان",
+          "زراعة وجراحة الأسنان",
           "تجميل الأسنان",
           "زركونيوم"
         ]
@@ -99,30 +103,30 @@
     {
       "photo": "/img/doc3.webp",
       "title": {
-        "tr": "Uzman Kadro",
+        "tr": "Hekim Kadromuz",
         "en": "Clinical Team",
-        "ar": "الفريق المتخصص"
+        "ar": "الفريق الطبي"
       },
       "name": "MossDental Hekimleri",
       "uni": {
         "tr": "MossDental Ağız ve Diş Sağlığı Polikliniği",
-        "en": "MossDental Ağız ve Diş Sağlığı Polikliniği",
-        "ar": "MossDental"
+        "en": "MossDental Dental Clinic · İstanbul",
+        "ar": "عيادة MossDental لطب الأسنان · إسطنبول"
       },
       "tags": {
         "tr": [
           "Ortodonti",
-          "Estetik",
+          "Estetik Dolgu",
           "Çocuk Diş Hekimliği"
         ],
         "en": [
           "Orthodontics",
-          "Aesthetics",
+          "Restorative Care",
           "Pediatric Care"
         ],
         "ar": [
           "تقويم الأسنان",
-          "تجميل الأسنان",
+          "حشوات تجميلية",
           "طب أسنان الأطفال"
         ]
       },
@@ -132,5 +136,7 @@
         "AR"
       ]
     }
-  ]
+  ],
+  "rating": 4.5,
+  "reviewsCount": 225
 }

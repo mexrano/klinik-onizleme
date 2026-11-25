@@ -1,0 +1,142 @@
+{
+  "name": "Özel Mersin Lider Dent Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Mersin Lider Dent",
+  "shortNameAr": "عيادة Mersin Lider Dent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mersin-lider-dent",
+  "phone": "+90 546 659 62 73",
+  "whatsapp": "905466596273",
+  "instagram": "",
+  "address": "Dumlupınar, Gazi Mustafa Kemal Blv. Yıldız apt D:449/A, 33140 Yenişehir/Mersin",
+  "district": "Yenişehir",
+  "districtAr": "يني شهير",
+  "neighborhood": "Mersin",
+  "neighborhoodAr": "مرسين",
+  "localAreas": [
+    "Yenişehir",
+    "Mersin",
+    "Mezitli",
+    "Toroslar"
+  ],
+  "localAreasAr": [
+    "يني شهير",
+    "مرسين"
+  ],
+  "coords": {
+    "lat": 36.7789728,
+    "lng": 34.5823046
+  },
+  "placeId": "ChIJB4ObVlL1JxURanimLV6D6D0",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenişehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenişehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني شهير"
+  },
+  "accessNote": {
+    "tr": "Dumlupınar, Gazi Mustafa Kemal Blv. Yıldız apt D:449/A, 33140 Yenişehir/Mersin adresinde merkezi konumda.",
+    "en": "Centrally located at Dumlupınar, Gazi Mustafa Kemal Blv. Yıldız apt D:449/A, 33140 Yenişehir/Mersin.",
+    "ar": "في موقع مركزي: Dumlupınar, Gazi Mustafa Kemal Blv. Yıldız apt D:449/A, 33140 Yenişehir/Mersin."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Sezer",
+      "uni": {
+        "tr": "Mersin Lider Dent · Yenişehir / Mersin",
+        "en": "Mersin Lider Dent · Yenişehir / Mersin",
+        "ar": "Mersin Lider Dent · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Mersin Lider Dent Hekimleri",
+      "uni": {
+        "tr": "Özel Mersin Lider Dent Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Mersin Lider Dent Dental Clinic · Mersin",
+        "ar": "عيادة Mersin Lider Dent لطب الأسنان · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 98
+}

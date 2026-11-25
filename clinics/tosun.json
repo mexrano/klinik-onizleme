@@ -1,64 +1,68 @@
 {
   "name": "TOSUN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAŞAKŞEHİR ŞUBESİ",
-  "shortName": "Tosun Diş",
-  "shortNameAr": "Tosun Diş",
-  "url": "",
+  "shortName": "Tosun",
+  "shortNameAr": "عيادة Tosun",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=tosun",
   "phone": "+90 507 740 50 79",
   "whatsapp": "905077405079",
   "instagram": "",
   "address": "Güvercintepe, Ahmet Yesevi Cd. No:28/1, 34494 Başakşehir/İstanbul",
   "district": "Başakşehir",
   "districtAr": "باشاك شهير",
-  "neighborhood": "Başakşehir",
-  "neighborhoodAr": "باشاك شهير",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
   "localAreas": [
     "Başakşehir",
-    "Kayabaşı",
-    "Kayaşehir",
-    "Bahçeşehir",
-    "İkitelli"
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
   ],
   "localAreasAr": [
     "باشاك شهير",
-    "كاياباشي",
-    "كاياشهير",
-    "باهجة شهير",
-    "إيكيتيلي"
+    "إسطنبول"
   ],
   "coords": {
     "lat": 41.0764481,
     "lng": 28.7520721
   },
+  "placeId": "ChIJt66wA5OnyhQR7oIGBl6RPdg",
   "hours": [
+    null,
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
-    ],
-    [
-      "09:00",
-      "22:00"
+      "18:00"
     ]
   ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Başakşehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Başakşehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · باشاك شهير"
+  },
+  "accessNote": {
+    "tr": "Güvercintepe, Ahmet Yesevi Cd. No:28/1, 34494 Başakşehir/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Güvercintepe, Ahmet Yesevi Cd. No:28/1, 34494 Başakşehir/İstanbul.",
+    "ar": "في موقع مركزي: Güvercintepe, Ahmet Yesevi Cd. No:28/1, 34494 Başakşehir/İstanbul."
+  },
   "doctors": [
     {
       "photo": "/img/doc1.webp",
@@ -69,23 +73,23 @@
       },
       "name": "Gurbet",
       "uni": {
-        "tr": "TOSUN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAŞAKŞEHİR ŞUBESİ",
-        "en": "TOSUN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAŞAKŞEHİR ŞUBESİ",
-        "ar": "Tosun Diş"
+        "tr": "Tosun · Başakşehir / İstanbul",
+        "en": "Tosun · Başakşehir / İstanbul",
+        "ar": "Tosun · إسطنبول"
       },
       "tags": {
         "tr": [
           "İmplant & Cerrahi",
-          "Estetik",
+          "Estetik Diş Hekimliği",
           "Zirkonyum"
         ],
         "en": [
           "Implants & Surgery",
-          "Aesthetics",
+          "Cosmetic Dentistry",
           "Zirconia"
         ],
         "ar": [
-          "زراعة الأسنان",
+          "زراعة وجراحة الأسنان",
           "تجميل الأسنان",
           "زركونيوم"
         ]
@@ -99,30 +103,30 @@
     {
       "photo": "/img/doc3.webp",
       "title": {
-        "tr": "Uzman Kadro",
+        "tr": "Hekim Kadromuz",
         "en": "Clinical Team",
-        "ar": "الفريق المتخصص"
+        "ar": "الفريق الطبي"
       },
-      "name": "Tosun Diş Hekimleri",
+      "name": "Tosun Hekimleri",
       "uni": {
         "tr": "TOSUN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAŞAKŞEHİR ŞUBESİ",
-        "en": "TOSUN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAŞAKŞEHİR ŞUBESİ",
-        "ar": "Tosun Diş"
+        "en": "Tosun Dental Clinic · İstanbul",
+        "ar": "عيادة Tosun لطب الأسنان · إسطنبول"
       },
       "tags": {
         "tr": [
           "Ortodonti",
-          "Estetik",
+          "Estetik Dolgu",
           "Çocuk Diş Hekimliği"
         ],
         "en": [
           "Orthodontics",
-          "Aesthetics",
+          "Restorative Care",
           "Pediatric Care"
         ],
         "ar": [
           "تقويم الأسنان",
-          "تجميل الأسنان",
+          "حشوات تجميلية",
           "طب أسنان الأطفال"
         ]
       },
@@ -132,5 +136,7 @@
         "AR"
       ]
     }
-  ]
+  ],
+  "rating": 4.9,
+  "reviewsCount": 81
 }

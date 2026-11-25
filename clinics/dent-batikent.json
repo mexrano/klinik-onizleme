@@ -1,0 +1,143 @@
+{
+  "name": "Dent Batıkent Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dent Batıkent",
+  "shortNameAr": "عيادة Dent Batıkent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dent-batikent",
+  "phone": "+90 554 663 60 60",
+  "whatsapp": "905546636060",
+  "instagram": "",
+  "address": "Ergazi, Cengiz Aytmatov Cd Gala Batıkent sitesi No:19P/C, 06370 Yenimahalle/Ankara",
+  "district": "Yenimahalle",
+  "districtAr": "يني محلة",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Yenimahalle",
+    "Ankara",
+    "Çankaya",
+    "Keçiören",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "يني محلة",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9604138,
+    "lng": 32.7109612
+  },
+  "placeId": "ChIJR70DQjI30xQRMom5M0AD5gI",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenimahalle",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenimahalle",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني محلة"
+  },
+  "accessNote": {
+    "tr": "Ergazi, Cengiz Aytmatov Cd Gala Batıkent sitesi No:19P/C, 06370 Yenimahalle/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Ergazi, Cengiz Aytmatov Cd Gala Batıkent sitesi No:19P/C, 06370 Yenimahalle/Ankara.",
+    "ar": "في موقع مركزي: Ergazi, Cengiz Aytmatov Cd Gala Batıkent sitesi No:19P/C, 06370 Yenimahalle/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Hem Nazım",
+      "uni": {
+        "tr": "Dent Batıkent · Yenimahalle / Ankara",
+        "en": "Dent Batıkent · Yenimahalle / Ankara",
+        "ar": "Dent Batıkent · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dent Batıkent Hekimleri",
+      "uni": {
+        "tr": "Dent Batıkent Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dent Batıkent Dental Clinic · Ankara",
+        "ar": "عيادة Dent Batıkent لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.7,
+  "reviewsCount": 130
+}

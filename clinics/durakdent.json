@@ -1,0 +1,105 @@
+{
+  "name": "DurakDent Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "DurakDent",
+  "shortNameAr": "عيادة DurakDent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=durakdent",
+  "phone": "+90 533 967 40 27",
+  "whatsapp": "905339674027",
+  "instagram": "",
+  "address": "Öğretmenevleri, Ordu Cd. No:68B, 27070 Şahinbey/Gaziantep",
+  "district": "Şahinbey",
+  "districtAr": "شاهين بيه",
+  "neighborhood": "Gaziantep",
+  "neighborhoodAr": "غازي عنتاب",
+  "localAreas": [
+    "Şahinbey",
+    "Gaziantep",
+    "Şehitkamil"
+  ],
+  "localAreasAr": [
+    "شاهين بيه",
+    "غازي عنتاب"
+  ],
+  "coords": {
+    "lat": 37.0592937,
+    "lng": 37.3559132
+  },
+  "placeId": "ChIJIRo3iinhMRURsPLy68s6Spg",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şahinbey",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şahinbey",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شاهين بيه"
+  },
+  "accessNote": {
+    "tr": "Öğretmenevleri, Ordu Cd. No:68B, 27070 Şahinbey/Gaziantep adresinde merkezi konumda.",
+    "en": "Centrally located at Öğretmenevleri, Ordu Cd. No:68B, 27070 Şahinbey/Gaziantep.",
+    "ar": "في موقع مركزي: Öğretmenevleri, Ordu Cd. No:68B, 27070 Şahinbey/Gaziantep."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "DurakDent Hekimleri",
+      "uni": {
+        "tr": "DurakDent Ağız ve Diş Sağlığı Polikliniği",
+        "en": "DurakDent Dental Clinic · Gaziantep",
+        "ar": "عيادة DurakDent لطب الأسنان · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 14
+}

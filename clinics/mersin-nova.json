@@ -1,0 +1,178 @@
+{
+  "name": "Özel Mersin Nova Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Mersin Nova",
+  "shortNameAr": "عيادة Mersin Nova",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mersin-nova",
+  "phone": "+90 532 639 29 33",
+  "whatsapp": "905326392933",
+  "instagram": "",
+  "address": "Nevit Kodalı caddesi menteş mahallesi EBS ÇAT Göçmen Sitesi no:48-2B, 33150 Yenişehir/Mersin",
+  "district": "Yenişehir",
+  "districtAr": "يني شهير",
+  "neighborhood": "Mersin",
+  "neighborhoodAr": "مرسين",
+  "localAreas": [
+    "Yenişehir",
+    "Mersin",
+    "Mezitli",
+    "Toroslar"
+  ],
+  "localAreasAr": [
+    "يني شهير",
+    "مرسين"
+  ],
+  "coords": {
+    "lat": 36.7825766,
+    "lng": 34.5679076
+  },
+  "placeId": "ChIJdZdD0HT1JxUR7BczifrIWHk",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenişehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenişehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني شهير"
+  },
+  "accessNote": {
+    "tr": "Nevit Kodalı caddesi menteş mahallesi EBS ÇAT Göçmen Sitesi no:48-2B, 33150 Yenişehir/Mersin adresinde merkezi konumda.",
+    "en": "Centrally located at Nevit Kodalı caddesi menteş mahallesi EBS ÇAT Göçmen Sitesi no:48-2B, 33150 Yenişehir/Mersin.",
+    "ar": "في موقع مركزي: Nevit Kodalı caddesi menteş mahallesi EBS ÇAT Göçmen Sitesi no:48-2B, 33150 Yenişehir/Mersin."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Serhat",
+      "uni": {
+        "tr": "Mersin Nova · Yenişehir / Mersin",
+        "en": "Mersin Nova · Yenişehir / Mersin",
+        "ar": "Mersin Nova · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Benimle Serhat",
+      "uni": {
+        "tr": "Mersin Nova · Yenişehir / Mersin",
+        "en": "Mersin Nova · Yenişehir / Mersin",
+        "ar": "Mersin Nova · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Mersin Nova Hekimleri",
+      "uni": {
+        "tr": "Özel Mersin Nova Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Mersin Nova Dental Clinic · Mersin",
+        "ar": "عيادة Mersin Nova لطب الأسنان · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 119
+}

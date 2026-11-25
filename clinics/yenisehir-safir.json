@@ -1,0 +1,106 @@
+{
+  "name": "Özel Yenişehir Safir Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Yenişehir Safir",
+  "shortNameAr": "عيادة Yenişehir Safir",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=yenisehir-safir",
+  "phone": "+90 530 069 91 33",
+  "whatsapp": "905300699133",
+  "instagram": "",
+  "address": "Safir plaza, Eğriçam, Hüseyin Okan Merzeci Blv no:604G, 33150 Yenişehir/Mersin",
+  "district": "Yenişehir",
+  "districtAr": "يني شهير",
+  "neighborhood": "Mersin",
+  "neighborhoodAr": "مرسين",
+  "localAreas": [
+    "Yenişehir",
+    "Mersin",
+    "Mezitli",
+    "Toroslar"
+  ],
+  "localAreasAr": [
+    "يني شهير",
+    "مرسين"
+  ],
+  "coords": {
+    "lat": 36.7804845,
+    "lng": 34.5677093
+  },
+  "placeId": "ChIJ16jBavqLJxUR4kI51M5YAgA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenişehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenişehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني شهير"
+  },
+  "accessNote": {
+    "tr": "Safir plaza, Eğriçam, Hüseyin Okan Merzeci Blv no:604G, 33150 Yenişehir/Mersin adresinde merkezi konumda.",
+    "en": "Centrally located at Safir plaza, Eğriçam, Hüseyin Okan Merzeci Blv no:604G, 33150 Yenişehir/Mersin.",
+    "ar": "في موقع مركزي: Safir plaza, Eğriçam, Hüseyin Okan Merzeci Blv no:604G, 33150 Yenişehir/Mersin."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Yenişehir Safir Hekimleri",
+      "uni": {
+        "tr": "Özel Yenişehir Safir Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Yenişehir Safir Dental Clinic · Mersin",
+        "ar": "عيادة Yenişehir Safir لطب الأسنان · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 195
+}

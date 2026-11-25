@@ -1,0 +1,179 @@
+{
+  "name": "ÖZEL KOCAELİ DENTARİS AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+  "shortName": "Kocaeli Dentaris",
+  "shortNameAr": "عيادة Kocaeli Dentaris",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=kocaeli-dentaris",
+  "phone": "+90 533 630 90 41",
+  "whatsapp": "905336309041",
+  "instagram": "",
+  "address": "Körfez, Yüce Rıfat Sk. No:42/A, 41040 İzmit/Kocaeli",
+  "district": "İzmit",
+  "districtAr": "إزميت",
+  "neighborhood": "Kocaeli",
+  "neighborhoodAr": "كوجالي",
+  "localAreas": [
+    "İzmit",
+    "Kocaeli",
+    "Yahyakaptan",
+    "Başiskele",
+    "Kartepe"
+  ],
+  "localAreasAr": [
+    "إزميت",
+    "كوجالي"
+  ],
+  "coords": {
+    "lat": 40.7636191,
+    "lng": 29.9530217
+  },
+  "placeId": "ChIJRRIMCw5PyxQRAhSeoDZC-Ms",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · İzmit",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · İzmit",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · إزميت"
+  },
+  "accessNote": {
+    "tr": "Körfez, Yüce Rıfat Sk. No:42/A, 41040 İzmit/Kocaeli adresinde merkezi konumda.",
+    "en": "Centrally located at Körfez, Yüce Rıfat Sk. No:42/A, 41040 İzmit/Kocaeli.",
+    "ar": "في موقع مركزي: Körfez, Yüce Rıfat Sk. No:42/A, 41040 İzmit/Kocaeli."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Burcu",
+      "uni": {
+        "tr": "Kocaeli Dentaris · İzmit / Kocaeli",
+        "en": "Kocaeli Dentaris · İzmit / Kocaeli",
+        "ar": "Kocaeli Dentaris · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Burcu",
+      "uni": {
+        "tr": "Kocaeli Dentaris · İzmit / Kocaeli",
+        "en": "Kocaeli Dentaris · İzmit / Kocaeli",
+        "ar": "Kocaeli Dentaris · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Kocaeli Dentaris Hekimleri",
+      "uni": {
+        "tr": "ÖZEL KOCAELİ DENTARİS AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "Kocaeli Dentaris Dental Clinic · Kocaeli",
+        "ar": "عيادة Kocaeli Dentaris لطب الأسنان · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 21
+}

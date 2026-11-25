@@ -1,0 +1,143 @@
+{
+  "name": "Özel Aktepe Ağız ve Diş Sağlığı polikliniği",
+  "shortName": "Aktepe Diş Kliniği",
+  "shortNameAr": "عيادة Aktepe Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=aktepe",
+  "phone": "+90 533 280 70 66",
+  "whatsapp": "905332807066",
+  "instagram": "",
+  "address": "Adnan Menderes, 949. Cd. 5A, 06300 Keçiören/Ankara",
+  "district": "Keçiören",
+  "districtAr": "كيتشي أورين",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Keçiören",
+    "Ankara",
+    "Çankaya",
+    "Yenimahalle",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "كيتشي أورين",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9982979,
+    "lng": 32.8836148
+  },
+  "placeId": "ChIJhby19WJN0xQRMUWZV8IfMkE",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Keçiören",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Keçiören",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كيتشي أورين"
+  },
+  "accessNote": {
+    "tr": "Adnan Menderes, 949. Cd. 5A, 06300 Keçiören/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Adnan Menderes, 949. Cd. 5A, 06300 Keçiören/Ankara.",
+    "ar": "في موقع مركزي: Adnan Menderes, 949. Cd. 5A, 06300 Keçiören/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Enes",
+      "uni": {
+        "tr": "Aktepe Diş Kliniği · Keçiören / Ankara",
+        "en": "Aktepe Diş Kliniği · Keçiören / Ankara",
+        "ar": "Aktepe Diş Kliniği · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Aktepe Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Özel Aktepe Ağız ve Diş Sağlığı polikliniği",
+        "en": "Aktepe Diş Kliniği Dental Clinic · Ankara",
+        "ar": "عيادة Aktepe Diş Kliniği لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 31
+}

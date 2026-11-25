@@ -1,0 +1,142 @@
+{
+  "name": "Mehmet Kocacık Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Mehmet Kocacık",
+  "shortNameAr": "عيادة Mehmet Kocacık",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mehmet-kocacik",
+  "phone": "+90 545 459 17 69",
+  "whatsapp": "905454591769",
+  "instagram": "",
+  "address": "Huzurevleri Mh. 77155 Sk, Sedir Apt No:4/D, 01360 Çukurova",
+  "district": "Çukurova",
+  "districtAr": "تشوكوروفا",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Çukurova",
+    "Adana",
+    "Seyhan",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "تشوكوروفا",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 37.0439629,
+    "lng": 35.2823769
+  },
+  "placeId": "ChIJ0wvtDxuJKBURIok6zu3TnJg",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çukurova",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çukurova",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشوكوروفا"
+  },
+  "accessNote": {
+    "tr": "Huzurevleri Mh. 77155 Sk, Sedir Apt No:4/D, 01360 Çukurova adresinde merkezi konumda.",
+    "en": "Centrally located at Huzurevleri Mh. 77155 Sk, Sedir Apt No:4/D, 01360 Çukurova.",
+    "ar": "في موقع مركزي: Huzurevleri Mh. 77155 Sk, Sedir Apt No:4/D, 01360 Çukurova."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Mehmet",
+      "uni": {
+        "tr": "Mehmet Kocacık · Çukurova / Adana",
+        "en": "Mehmet Kocacık · Çukurova / Adana",
+        "ar": "Mehmet Kocacık · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Mehmet Kocacık Hekimleri",
+      "uni": {
+        "tr": "Mehmet Kocacık Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Mehmet Kocacık Dental Clinic · Adana",
+        "ar": "عيادة Mehmet Kocacık لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 21
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Özel Doğa Dent Ağız ve Diş Sağlığı Polikliniği Gaziantep",
+  "shortName": "Doğa Dent",
+  "shortNameAr": "عيادة Doğa Dent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=doga-dent",
+  "phone": "+90 544 390 97 35",
+  "whatsapp": "905443909735",
+  "instagram": "",
+  "address": "İbni sina mahallesi 400 nolu cad akkent city 79B/G, 298J+7V, 27000 Şahinbey/Gaziantep",
+  "district": "Şahinbey",
+  "districtAr": "شاهين بيه",
+  "neighborhood": "Gaziantep",
+  "neighborhoodAr": "غازي عنتاب",
+  "localAreas": [
+    "Şahinbey",
+    "Gaziantep",
+    "Şehitkamil"
+  ],
+  "localAreasAr": [
+    "شاهين بيه",
+    "غازي عنتاب"
+  ],
+  "coords": {
+    "lat": 37.0157611,
+    "lng": 37.382103
+  },
+  "placeId": "ChIJ31FMOebhMRURx66vZm0IPYo",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şahinbey",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şahinbey",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شاهين بيه"
+  },
+  "accessNote": {
+    "tr": "İbni sina mahallesi 400 nolu cad akkent city 79B/G, 298J+7V, 27000 Şahinbey/Gaziantep adresinde merkezi konumda.",
+    "en": "Centrally located at İbni sina mahallesi 400 nolu cad akkent city 79B/G, 298J+7V, 27000 Şahinbey/Gaziantep.",
+    "ar": "في موقع مركزي: İbni sina mahallesi 400 nolu cad akkent city 79B/G, 298J+7V, 27000 Şahinbey/Gaziantep."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Fatih",
+      "uni": {
+        "tr": "Doğa Dent · Şahinbey / Gaziantep",
+        "en": "Doğa Dent · Şahinbey / Gaziantep",
+        "ar": "Doğa Dent · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Müge",
+      "uni": {
+        "tr": "Doğa Dent · Şahinbey / Gaziantep",
+        "en": "Doğa Dent · Şahinbey / Gaziantep",
+        "ar": "Doğa Dent · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Doğa Dent Hekimleri",
+      "uni": {
+        "tr": "Özel Doğa Dent Ağız ve Diş Sağlığı Polikliniği Gaziantep",
+        "en": "Doğa Dent Dental Clinic · Gaziantep",
+        "ar": "عيادة Doğa Dent لطب الأسنان · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 176
+}

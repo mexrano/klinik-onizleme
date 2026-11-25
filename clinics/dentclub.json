@@ -1,0 +1,141 @@
+{
+  "name": "Dentclub Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dentclub",
+  "shortNameAr": "عيادة Dentclub",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentclub",
+  "phone": "+90 507 705 45 89",
+  "whatsapp": "905077054589",
+  "instagram": "",
+  "address": "Değirmiçem, Ali Fuat Cebesoy Blv. Kardelen Apt No:11/e, 27090 Şehitkamil/Gaziantep",
+  "district": "Şehitkamil",
+  "districtAr": "شهيد كامل",
+  "neighborhood": "Gaziantep",
+  "neighborhoodAr": "غازي عنتاب",
+  "localAreas": [
+    "Şehitkamil",
+    "Gaziantep",
+    "Şahinbey"
+  ],
+  "localAreasAr": [
+    "شهيد كامل",
+    "غازي عنتاب"
+  ],
+  "coords": {
+    "lat": 37.0719034,
+    "lng": 37.3770051
+  },
+  "placeId": "ChIJ00k4e3DhMRURfBWdBLuUrE4",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şehitkamil",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şehitkamil",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شهيد كامل"
+  },
+  "accessNote": {
+    "tr": "Değirmiçem, Ali Fuat Cebesoy Blv. Kardelen Apt No:11/e, 27090 Şehitkamil/Gaziantep adresinde merkezi konumda.",
+    "en": "Centrally located at Değirmiçem, Ali Fuat Cebesoy Blv. Kardelen Apt No:11/e, 27090 Şehitkamil/Gaziantep.",
+    "ar": "في موقع مركزي: Değirmiçem, Ali Fuat Cebesoy Blv. Kardelen Apt No:11/e, 27090 Şehitkamil/Gaziantep."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Bersu",
+      "uni": {
+        "tr": "Dentclub · Şehitkamil / Gaziantep",
+        "en": "Dentclub · Şehitkamil / Gaziantep",
+        "ar": "Dentclub · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentclub Hekimleri",
+      "uni": {
+        "tr": "Dentclub Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dentclub Dental Clinic · Gaziantep",
+        "ar": "عيادة Dentclub لطب الأسنان · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 98
+}

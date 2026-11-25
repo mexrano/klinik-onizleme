@@ -1,0 +1,178 @@
+{
+  "name": "DENTATÜRK AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+  "shortName": "Dentatürk",
+  "shortNameAr": "عيادة Dentatürk",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentaturk",
+  "phone": "+90 540 850 16 16",
+  "whatsapp": "905408501616",
+  "instagram": "",
+  "address": "Hüdavendigar Mahallesi 1, Bent Cd. No:1/A, 16090 Osmangazi̇/Bursa",
+  "district": "Osmangazi",
+  "districtAr": "عثمان غازي",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Osmangazi",
+    "Bursa",
+    "Nilüfer",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "عثمان غازي",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.2029085,
+    "lng": 29.0059149
+  },
+  "placeId": "ChIJS0yI7dA5yhQRl8BfqTxNBJ8",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Osmangazi",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Osmangazi",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · عثمان غازي"
+  },
+  "accessNote": {
+    "tr": "Hüdavendigar Mahallesi 1, Bent Cd. No:1/A, 16090 Osmangazi̇/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at Hüdavendigar Mahallesi 1, Bent Cd. No:1/A, 16090 Osmangazi̇/Bursa.",
+    "ar": "في موقع مركزي: Hüdavendigar Mahallesi 1, Bent Cd. No:1/A, 16090 Osmangazi̇/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Durmaz",
+      "uni": {
+        "tr": "Dentatürk · Osmangazi / Bursa",
+        "en": "Dentatürk · Osmangazi / Bursa",
+        "ar": "Dentatürk · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Hemi Emir",
+      "uni": {
+        "tr": "Dentatürk · Osmangazi / Bursa",
+        "en": "Dentatürk · Osmangazi / Bursa",
+        "ar": "Dentatürk · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentatürk Hekimleri",
+      "uni": {
+        "tr": "DENTATÜRK AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "Dentatürk Dental Clinic · Bursa",
+        "ar": "عيادة Dentatürk لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 259
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Kuğu Dental Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Kuğu Dental",
+  "shortNameAr": "عيادة Kuğu Dental",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=kugu-dental",
+  "phone": "+90 534 394 13 04",
+  "whatsapp": "905343941304",
+  "instagram": "",
+  "address": "Bademlik, 1166. Sk. No:1/1, 06300 Keçiören/Ankara",
+  "district": "Keçiören",
+  "districtAr": "كيتشي أورين",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Keçiören",
+    "Ankara",
+    "Çankaya",
+    "Yenimahalle",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "كيتشي أورين",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 40.0071221,
+    "lng": 32.8749927
+  },
+  "placeId": "ChIJv2FaNrVN0xQRwglfTen-3mM",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Keçiören",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Keçiören",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كيتشي أورين"
+  },
+  "accessNote": {
+    "tr": "Bademlik, 1166. Sk. No:1/1, 06300 Keçiören/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Bademlik, 1166. Sk. No:1/1, 06300 Keçiören/Ankara.",
+    "ar": "في موقع مركزي: Bademlik, 1166. Sk. No:1/1, 06300 Keçiören/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Esma",
+      "uni": {
+        "tr": "Kuğu Dental · Keçiören / Ankara",
+        "en": "Kuğu Dental · Keçiören / Ankara",
+        "ar": "Kuğu Dental · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Merhaba Cansu",
+      "uni": {
+        "tr": "Kuğu Dental · Keçiören / Ankara",
+        "en": "Kuğu Dental · Keçiören / Ankara",
+        "ar": "Kuğu Dental · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Kuğu Dental Hekimleri",
+      "uni": {
+        "tr": "Kuğu Dental Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Kuğu Dental Dental Clinic · Ankara",
+        "ar": "عيادة Kuğu Dental لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 38
+}

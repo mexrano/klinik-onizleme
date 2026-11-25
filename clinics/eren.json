@@ -1,64 +1,68 @@
 {
   "name": "Eren Diş Ağız ve Diş Sağlığı Polikliniği",
   "shortName": "Eren Diş",
-  "shortNameAr": "Eren Diş",
-  "url": "",
+  "shortNameAr": "عيادة Eren Diş",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=eren",
   "phone": "+90 507 004 36 44",
   "whatsapp": "905070043644",
-  "instagram": "https://www.instagram.com/erendisbasaksehir",
+  "instagram": "https://www.instagram.com/erendisbasaksehir/",
   "address": "LIFE PARK EVLERI, Başakşehir, Sabahattin Zaim Cd NO: 8 S, 34480 Başakşehir/İstanbul",
   "district": "Başakşehir",
   "districtAr": "باشاك شهير",
-  "neighborhood": "Başakşehir",
-  "neighborhoodAr": "باشاك شهير",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
   "localAreas": [
     "Başakşehir",
-    "Kayabaşı",
-    "Kayaşehir",
-    "Bahçeşehir",
-    "İkitelli"
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
   ],
   "localAreasAr": [
     "باشاك شهير",
-    "كاياباشي",
-    "كاياشهير",
-    "باهجة شهير",
-    "إيكيتيلي"
+    "إسطنبول"
   ],
   "coords": {
     "lat": 41.0965895,
     "lng": 28.7883363
   },
+  "placeId": "ChIJWSUuYNKvyhQROCekjbE6OUc",
   "hours": [
+    null,
     [
-      "11:00",
-      "20:00"
+      "09:00",
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
-    ],
-    [
-      "09:00",
-      "22:00"
+      "18:00"
     ]
   ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Başakşehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Başakşehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · باشاك شهير"
+  },
+  "accessNote": {
+    "tr": "LIFE PARK EVLERI, Başakşehir, Sabahattin Zaim Cd NO: 8 S, 34480 Başakşehir/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at LIFE PARK EVLERI, Başakşehir, Sabahattin Zaim Cd NO: 8 S, 34480 Başakşehir/İstanbul.",
+    "ar": "في موقع مركزي: LIFE PARK EVLERI, Başakşehir, Sabahattin Zaim Cd NO: 8 S, 34480 Başakşehir/İstanbul."
+  },
   "doctors": [
     {
       "photo": "/img/doc1.webp",
@@ -69,23 +73,23 @@
       },
       "name": "Gülcan",
       "uni": {
-        "tr": "Eren Diş Ağız ve Diş Sağlığı Polikliniği",
-        "en": "Eren Diş Ağız ve Diş Sağlığı Polikliniği",
-        "ar": "Eren Diş"
+        "tr": "Eren Diş · Başakşehir / İstanbul",
+        "en": "Eren Diş · Başakşehir / İstanbul",
+        "ar": "Eren Diş · إسطنبول"
       },
       "tags": {
         "tr": [
           "İmplant & Cerrahi",
-          "Estetik",
+          "Estetik Diş Hekimliği",
           "Zirkonyum"
         ],
         "en": [
           "Implants & Surgery",
-          "Aesthetics",
+          "Cosmetic Dentistry",
           "Zirconia"
         ],
         "ar": [
-          "زراعة الأسنان",
+          "زراعة وجراحة الأسنان",
           "تجميل الأسنان",
           "زركونيوم"
         ]
@@ -99,30 +103,30 @@
     {
       "photo": "/img/doc3.webp",
       "title": {
-        "tr": "Uzman Kadro",
+        "tr": "Hekim Kadromuz",
         "en": "Clinical Team",
-        "ar": "الفريق المتخصص"
+        "ar": "الفريق الطبي"
       },
       "name": "Eren Diş Hekimleri",
       "uni": {
         "tr": "Eren Diş Ağız ve Diş Sağlığı Polikliniği",
-        "en": "Eren Diş Ağız ve Diş Sağlığı Polikliniği",
-        "ar": "Eren Diş"
+        "en": "Eren Diş Dental Clinic · İstanbul",
+        "ar": "عيادة Eren Diş لطب الأسنان · إسطنبول"
       },
       "tags": {
         "tr": [
           "Ortodonti",
-          "Estetik",
+          "Estetik Dolgu",
           "Çocuk Diş Hekimliği"
         ],
         "en": [
           "Orthodontics",
-          "Aesthetics",
+          "Restorative Care",
           "Pediatric Care"
         ],
         "ar": [
           "تقويم الأسنان",
-          "تجميل الأسنان",
+          "حشوات تجميلية",
           "طب أسنان الأطفال"
         ]
       },
@@ -132,5 +136,7 @@
         "AR"
       ]
     }
-  ]
+  ],
+  "rating": 5,
+  "reviewsCount": 56
 }

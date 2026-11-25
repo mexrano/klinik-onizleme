@@ -1,0 +1,107 @@
+{
+  "name": "Kocaeli Diş",
+  "shortName": "Kocaeli Diş",
+  "shortNameAr": "عيادة Kocaeli Diş",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=kocaeli-2",
+  "phone": "+90 551 520 89 69",
+  "whatsapp": "905515208969",
+  "instagram": "",
+  "address": "Ömerağa, Cumhuriyet Cd. No:114, 41310 İzmit/Kocaeli",
+  "district": "İzmit",
+  "districtAr": "إزميت",
+  "neighborhood": "Kocaeli",
+  "neighborhoodAr": "كوجالي",
+  "localAreas": [
+    "İzmit",
+    "Kocaeli",
+    "Yahyakaptan",
+    "Başiskele",
+    "Kartepe"
+  ],
+  "localAreasAr": [
+    "إزميت",
+    "كوجالي"
+  ],
+  "coords": {
+    "lat": 40.7632233,
+    "lng": 29.9279302
+  },
+  "placeId": "ChIJBUE9jZ9FyxQRWTmkNDrvELM",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · İzmit",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · İzmit",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · إزميت"
+  },
+  "accessNote": {
+    "tr": "Ömerağa, Cumhuriyet Cd. No:114, 41310 İzmit/Kocaeli adresinde merkezi konumda.",
+    "en": "Centrally located at Ömerağa, Cumhuriyet Cd. No:114, 41310 İzmit/Kocaeli.",
+    "ar": "في موقع مركزي: Ömerağa, Cumhuriyet Cd. No:114, 41310 İzmit/Kocaeli."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Kocaeli Diş Hekimleri",
+      "uni": {
+        "tr": "Kocaeli Diş",
+        "en": "Kocaeli Diş Dental Clinic · Kocaeli",
+        "ar": "عيادة Kocaeli Diş لطب الأسنان · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.3,
+  "reviewsCount": 3
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Özlüce Dent Palace Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Özlüce Dent Palace",
+  "shortNameAr": "عيادة Özlüce Dent Palace",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=ozluce-dent-palace",
+  "phone": "+90 546 413 13 26",
+  "whatsapp": "905464131326",
+  "instagram": "https://www.instagram.com/dentpalaceclinic/",
+  "address": "DENT PALACE ADSP, Ertuğrul Mah. Uğur Mumcu bulvarı biaport sitesi no21E/B, Özlüce, 16130 Ni̇lüfer/Bursa",
+  "district": "Nilüfer",
+  "districtAr": "نيلوفر",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Nilüfer",
+    "Bursa",
+    "Osmangazi",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "نيلوفر",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.2204776,
+    "lng": 28.9156687
+  },
+  "placeId": "ChIJbUaoLvURyhQRaCSoYVwB12E",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Nilüfer",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Nilüfer",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · نيلوفر"
+  },
+  "accessNote": {
+    "tr": "DENT PALACE ADSP, Ertuğrul Mah. Uğur Mumcu bulvarı biaport sitesi no21E/B, Özlüce, 16130 Ni̇lüfer/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at DENT PALACE ADSP, Ertuğrul Mah. Uğur Mumcu bulvarı biaport sitesi no21E/B, Özlüce, 16130 Ni̇lüfer/Bursa.",
+    "ar": "في موقع مركزي: DENT PALACE ADSP, Ertuğrul Mah. Uğur Mumcu bulvarı biaport sitesi no21E/B, Özlüce, 16130 Ni̇lüfer/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Hakan",
+      "uni": {
+        "tr": "Özlüce Dent Palace · Nilüfer / Bursa",
+        "en": "Özlüce Dent Palace · Nilüfer / Bursa",
+        "ar": "Özlüce Dent Palace · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Özlüce Dent Palace Hekimleri",
+      "uni": {
+        "tr": "Özlüce Dent Palace Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Özlüce Dent Palace Dental Clinic · Bursa",
+        "ar": "عيادة Özlüce Dent Palace لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 188
+}

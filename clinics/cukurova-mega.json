@@ -1,0 +1,178 @@
+{
+  "name": "Özel ÇUKUROVA MEGA Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Çukurova Mega",
+  "shortNameAr": "عيادة Çukurova Mega",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=cukurova-mega",
+  "phone": "+90 506 096 69 06",
+  "whatsapp": "905060966906",
+  "instagram": "",
+  "address": "ziya vural apartmanı, Huzurevleri, 80. Yıl Blv. a blok no:62-1b, 01360 Çukurova/Adana",
+  "district": "Çukurova",
+  "districtAr": "تشوكوروفا",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Çukurova",
+    "Adana",
+    "Seyhan",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "تشوكوروفا",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 37.03286,
+    "lng": 35.2882585
+  },
+  "placeId": "ChIJ9cGjzqSJKBURa35oucY-dXU",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çukurova",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çukurova",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشوكوروفا"
+  },
+  "accessNote": {
+    "tr": "ziya vural apartmanı, Huzurevleri, 80. Yıl Blv. a blok no:62-1b, 01360 Çukurova/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at ziya vural apartmanı, Huzurevleri, 80. Yıl Blv. a blok no:62-1b, 01360 Çukurova/Adana.",
+    "ar": "في موقع مركزي: ziya vural apartmanı, Huzurevleri, 80. Yıl Blv. a blok no:62-1b, 01360 Çukurova/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Sema",
+      "uni": {
+        "tr": "Çukurova Mega · Çukurova / Adana",
+        "en": "Çukurova Mega · Çukurova / Adana",
+        "ar": "Çukurova Mega · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Hilal",
+      "uni": {
+        "tr": "Çukurova Mega · Çukurova / Adana",
+        "en": "Çukurova Mega · Çukurova / Adana",
+        "ar": "Çukurova Mega · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Çukurova Mega Hekimleri",
+      "uni": {
+        "tr": "Özel ÇUKUROVA MEGA Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Çukurova Mega Dental Clinic · Adana",
+        "ar": "عيادة Çukurova Mega لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 66
+}

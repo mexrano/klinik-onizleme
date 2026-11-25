@@ -1,0 +1,107 @@
+{
+  "name": "KLİNİK K&Y Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Klinik K&y",
+  "shortNameAr": "عيادة Klinik K&y",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=klinik-k-y",
+  "phone": "+90 532 392 06 59",
+  "whatsapp": "905323920659",
+  "instagram": "",
+  "address": "Sancak, Turan Güneş Blv. No:1/A, 06550 Çankaya/Ankara",
+  "district": "Çankaya",
+  "districtAr": "تشانكايا",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Çankaya",
+    "Ankara",
+    "Yenimahalle",
+    "Keçiören",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "تشانكايا",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.877077,
+    "lng": 32.86457
+  },
+  "placeId": "ChIJ-xE_ZKtF0xQRyQemExTDsPg",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çankaya",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çankaya",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشانكايا"
+  },
+  "accessNote": {
+    "tr": "Sancak, Turan Güneş Blv. No:1/A, 06550 Çankaya/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Sancak, Turan Güneş Blv. No:1/A, 06550 Çankaya/Ankara.",
+    "ar": "في موقع مركزي: Sancak, Turan Güneş Blv. No:1/A, 06550 Çankaya/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Klinik K&y Hekimleri",
+      "uni": {
+        "tr": "KLİNİK K&Y Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Klinik K&y Dental Clinic · Ankara",
+        "ar": "عيادة Klinik K&y لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 73
+}

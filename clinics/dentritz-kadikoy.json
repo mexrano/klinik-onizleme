@@ -1,0 +1,142 @@
+{
+  "name": "Dentritz Kadıköy",
+  "shortName": "Dentritz Kadıköy",
+  "shortNameAr": "عيادة Dentritz Kadıköy",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentritz-kadikoy",
+  "phone": "+90 505 771 15 52",
+  "whatsapp": "905057711552",
+  "instagram": "",
+  "address": "Fikirtepe, Hızırbey Cd. Pırlanta Göztepe Sitesi, 34730 Kadıköy/İstanbul",
+  "district": "Kadıköy",
+  "districtAr": "كاديكوي",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": [
+    "Kadıköy",
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
+  ],
+  "localAreasAr": [
+    "كاديكوي",
+    "إسطنبول"
+  ],
+  "coords": {
+    "lat": 40.9899747,
+    "lng": 29.0545588
+  },
+  "placeId": "ChIJ3-ON-eLHyhQR56wSO0JVtqo",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Kadıköy",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Kadıköy",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كاديكوي"
+  },
+  "accessNote": {
+    "tr": "Fikirtepe, Hızırbey Cd. Pırlanta Göztepe Sitesi, 34730 Kadıköy/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Fikirtepe, Hızırbey Cd. Pırlanta Göztepe Sitesi, 34730 Kadıköy/İstanbul.",
+    "ar": "في موقع مركزي: Fikirtepe, Hızırbey Cd. Pırlanta Göztepe Sitesi, 34730 Kadıköy/İstanbul."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Mert",
+      "uni": {
+        "tr": "Dentritz Kadıköy · Kadıköy / İstanbul",
+        "en": "Dentritz Kadıköy · Kadıköy / İstanbul",
+        "ar": "Dentritz Kadıköy · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentritz Kadıköy Hekimleri",
+      "uni": {
+        "tr": "Dentritz Kadıköy",
+        "en": "Dentritz Kadıköy Dental Clinic · İstanbul",
+        "ar": "عيادة Dentritz Kadıköy لطب الأسنان · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 184
+}

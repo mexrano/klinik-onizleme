@@ -1,0 +1,142 @@
+{
+  "name": "Nardent Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Nardent",
+  "shortNameAr": "عيادة Nardent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=nardent",
+  "phone": "+90 538 789 11 53",
+  "whatsapp": "905387891153",
+  "instagram": "",
+  "address": "Mecidiyeköy Mahallesi, Büyükdere Cd. Saadet Apt No 65 Kat 2, 34381 Şişli/İstanbul",
+  "district": "Şişli",
+  "districtAr": "شيشلي",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": [
+    "Şişli",
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
+  ],
+  "localAreasAr": [
+    "شيشلي",
+    "إسطنبول"
+  ],
+  "coords": {
+    "lat": 41.066899,
+    "lng": 28.9982198
+  },
+  "placeId": "ChIJ5Setk_62yhQRdwt6QIeXbUA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şişli",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şişli",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شيشلي"
+  },
+  "accessNote": {
+    "tr": "Mecidiyeköy Mahallesi, Büyükdere Cd. Saadet Apt No 65 Kat 2, 34381 Şişli/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Mecidiyeköy Mahallesi, Büyükdere Cd. Saadet Apt No 65 Kat 2, 34381 Şişli/İstanbul.",
+    "ar": "في موقع مركزي: Mecidiyeköy Mahallesi, Büyükdere Cd. Saadet Apt No 65 Kat 2, 34381 Şişli/İstanbul."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Rasim",
+      "uni": {
+        "tr": "Nardent · Şişli / İstanbul",
+        "en": "Nardent · Şişli / İstanbul",
+        "ar": "Nardent · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Nardent Hekimleri",
+      "uni": {
+        "tr": "Nardent Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Nardent Dental Clinic · İstanbul",
+        "ar": "عيادة Nardent لطب الأسنان · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 144
+}

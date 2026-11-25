@@ -1,0 +1,178 @@
+{
+  "name": "DİŞ HEKİMİ MESUT AKSOY İSTANBUL KADIKÖY",
+  "shortName": "DİŞ Hekimi Mesut Aksoy",
+  "shortNameAr": "عيادة DİŞ Hekimi Mesut Aksoy",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mesut-aksoy",
+  "phone": "+90 545 606 05 66",
+  "whatsapp": "905456060566",
+  "instagram": "https://www.instagram.com/dentistmesutaksoy/",
+  "address": "Rasimpaşa, Yavuztürk Sk. No:37 Ahmetoğlu İş Mrk K: 1 D: 2, 34714 Kadıköy/İstanbul",
+  "district": "Kadıköy",
+  "districtAr": "كاديكوي",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": [
+    "Kadıköy",
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
+  ],
+  "localAreasAr": [
+    "كاديكوي",
+    "إسطنبول"
+  ],
+  "coords": {
+    "lat": 40.9918093,
+    "lng": 29.0319192
+  },
+  "placeId": "ChIJJSkuhtk50xQR2fcZduOndvI",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Kadıköy",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Kadıköy",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كاديكوي"
+  },
+  "accessNote": {
+    "tr": "Rasimpaşa, Yavuztürk Sk. No:37 Ahmetoğlu İş Mrk K: 1 D: 2, 34714 Kadıköy/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Rasimpaşa, Yavuztürk Sk. No:37 Ahmetoğlu İş Mrk K: 1 D: 2, 34714 Kadıköy/İstanbul.",
+    "ar": "في موقع مركزي: Rasimpaşa, Yavuztürk Sk. No:37 Ahmetoğlu İş Mrk K: 1 D: 2, 34714 Kadıköy/İstanbul."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Mesut",
+      "uni": {
+        "tr": "DİŞ Hekimi Mesut Aksoy · Kadıköy / İstanbul",
+        "en": "DİŞ Hekimi Mesut Aksoy · Kadıköy / İstanbul",
+        "ar": "DİŞ Hekimi Mesut Aksoy · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Merhabalar Gizem",
+      "uni": {
+        "tr": "DİŞ Hekimi Mesut Aksoy · Kadıköy / İstanbul",
+        "en": "DİŞ Hekimi Mesut Aksoy · Kadıköy / İstanbul",
+        "ar": "DİŞ Hekimi Mesut Aksoy · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "DİŞ Hekimi Mesut Aksoy Hekimleri",
+      "uni": {
+        "tr": "DİŞ HEKİMİ MESUT AKSOY İSTANBUL KADIKÖY",
+        "en": "DİŞ Hekimi Mesut Aksoy Dental Clinic · İstanbul",
+        "ar": "عيادة DİŞ Hekimi Mesut Aksoy لطب الأسنان · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 109
+}

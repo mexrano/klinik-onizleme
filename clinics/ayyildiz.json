@@ -1,61 +1,68 @@
 {
   "name": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
-  "shortName": "Ayyıldız Diş",
-  "shortNameAr": "Ayyıldız Diş",
-  "url": "",
+  "shortName": "Ayyıldız",
+  "shortNameAr": "عيادة Ayyıldız",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=ayyildiz",
   "phone": "+90 530 391 99 32",
   "whatsapp": "905303919932",
   "instagram": "",
   "address": "KAYABAŞI MAHALLESİ.KAYAŞEHİR BULVARI.SEYRANŞEHİR D, D:3 BLOK NO: 15 C İÇ KAPI NO: 10-11, 34490 Başakşehir/İstanbul",
   "district": "Başakşehir",
   "districtAr": "باشاك شهير",
-  "neighborhood": "KAYABAŞI",
-  "neighborhoodAr": "باشاك شهير",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
   "localAreas": [
     "Başakşehir",
-    "Kayaşehir",
-    "Kayabaşı",
-    "Bahçeşehir",
-    "Fenertepe"
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
   ],
   "localAreasAr": [
     "باشاك شهير",
-    "كاياشهير",
-    "كاياباشي",
-    "باهجة شهير",
-    "فنرتبه"
+    "إسطنبول"
   ],
   "coords": {
     "lat": 41.1026351,
     "lng": 28.7620203
   },
+  "placeId": "ChIJT0NwzowpCwURB0LjhAw1Eak",
   "hours": [
     null,
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "22:00"
+      "19:30"
     ],
     [
       "09:00",
-      "19:00"
+      "18:00"
     ]
   ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Başakşehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Başakşehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · باشاك شهير"
+  },
+  "accessNote": {
+    "tr": "KAYABAŞI MAHALLESİ.KAYAŞEHİR BULVARI.SEYRANŞEHİR D, D:3 BLOK NO: 15 C İÇ KAPI NO: 10-11, 34490 Başakşehir/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at KAYABAŞI MAHALLESİ.KAYAŞEHİR BULVARI.SEYRANŞEHİR D, D:3 BLOK NO: 15 C İÇ KAPI NO: 10-11, 34490 Başakşehir/İstanbul.",
+    "ar": "في موقع مركزي: KAYABAŞI MAHALLESİ.KAYAŞEHİR BULVARI.SEYRANŞEHİR D, D:3 BLOK NO: 15 C İÇ KAPI NO: 10-11, 34490 Başakşehir/İstanbul."
+  },
   "doctors": [
     {
       "photo": "/img/doc1.webp",
@@ -66,23 +73,23 @@
       },
       "name": "Emre Köse",
       "uni": {
-        "tr": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
-        "en": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
-        "ar": "Ayyıldız Diş"
+        "tr": "Ayyıldız · Başakşehir / İstanbul",
+        "en": "Ayyıldız · Başakşehir / İstanbul",
+        "ar": "Ayyıldız · إسطنبول"
       },
       "tags": {
         "tr": [
           "İmplant & Cerrahi",
-          "Estetik",
+          "Estetik Diş Hekimliği",
           "Zirkonyum"
         ],
         "en": [
           "Implants & Surgery",
-          "Aesthetics",
+          "Cosmetic Dentistry",
           "Zirconia"
         ],
         "ar": [
-          "زراعة الأسنان",
+          "زراعة وجراحة الأسنان",
           "تجميل الأسنان",
           "زركونيوم"
         ]
@@ -96,30 +103,30 @@
     {
       "photo": "/img/doc3.webp",
       "title": {
-        "tr": "Uzman Kadro",
+        "tr": "Hekim Kadromuz",
         "en": "Clinical Team",
-        "ar": "الفريق المتخصص"
+        "ar": "الفريق الطبي"
       },
-      "name": "Ayyıldız Diş Hekimleri",
+      "name": "Ayyıldız Hekimleri",
       "uni": {
         "tr": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
-        "en": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
-        "ar": "Ayyıldız Diş"
+        "en": "Ayyıldız Dental Clinic · İstanbul",
+        "ar": "عيادة Ayyıldız لطب الأسنان · إسطنبول"
       },
       "tags": {
         "tr": [
           "Ortodonti",
-          "Estetik",
+          "Estetik Dolgu",
           "Çocuk Diş Hekimliği"
         ],
         "en": [
           "Orthodontics",
-          "Aesthetics",
+          "Restorative Care",
           "Pediatric Care"
         ],
         "ar": [
           "تقويم الأسنان",
-          "تجميل الأسنان",
+          "حشوات تجميلية",
           "طب أسنان الأطفال"
         ]
       },
@@ -129,5 +136,7 @@
         "AR"
       ]
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewsCount": 26
 }

@@ -1,0 +1,106 @@
+{
+  "name": "Özel HAYAT Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "HAYAT Diş Kliniği",
+  "shortNameAr": "عيادة HAYAT Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=hayat",
+  "phone": "+90 545 224 59 19",
+  "whatsapp": "905452245919",
+  "instagram": "",
+  "address": "Alacamescit, Çancılar Cd. 66/1, 16020 Osmangazi̇/Bursa",
+  "district": "Osmangazi",
+  "districtAr": "عثمان غازي",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Osmangazi",
+    "Bursa",
+    "Nilüfer",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "عثمان غازي",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.185118,
+    "lng": 29.0689344
+  },
+  "placeId": "ChIJRyqNPIs_yhQRQeRZEfAybhg",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Osmangazi",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Osmangazi",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · عثمان غازي"
+  },
+  "accessNote": {
+    "tr": "Alacamescit, Çancılar Cd. 66/1, 16020 Osmangazi̇/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at Alacamescit, Çancılar Cd. 66/1, 16020 Osmangazi̇/Bursa.",
+    "ar": "في موقع مركزي: Alacamescit, Çancılar Cd. 66/1, 16020 Osmangazi̇/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "HAYAT Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Özel HAYAT Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "HAYAT Diş Kliniği Dental Clinic · Bursa",
+        "ar": "عيادة HAYAT Diş Kliniği لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.1,
+  "reviewsCount": 23
+}

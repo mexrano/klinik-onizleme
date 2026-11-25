@@ -1,0 +1,146 @@
+{
+  "name": "Dizayn Dental | Kızılay Diş Doktoru | Ankara Acil Diş Doktoru",
+  "shortName": "Dizayn Dental",
+  "shortNameAr": "عيادة Dizayn Dental",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dizayn-dental",
+  "phone": "+90 501 048 98 98",
+  "whatsapp": "905010489898",
+  "instagram": "",
+  "address": "Kızılay, Kumrular Cd. No:16 D:B, 06520 Çankaya/Ankara",
+  "district": "Çankaya",
+  "districtAr": "تشانكايا",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Çankaya",
+    "Ankara",
+    "Yenimahalle",
+    "Keçiören",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "تشانكايا",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9203789,
+    "lng": 32.8500729
+  },
+  "placeId": "ChIJb_7ZmKNP0xQR4x0lG7XXQWk",
+  "hours": [
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ]
+  ],
+  "stripNote": {
+    "tr": "7/24 Acil Diş · Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çankaya",
+    "en": "24/7 Emergency · Digital X-ray · 3D Planning · B-Class Sterilisation · Çankaya",
+    "ar": "طوارئ 24/7 · أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشانكايا"
+  },
+  "accessNote": {
+    "tr": "Kızılay, Kumrular Cd. No:16 D:B, 06520 Çankaya/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Kızılay, Kumrular Cd. No:16 D:B, 06520 Çankaya/Ankara.",
+    "ar": "في موقع مركزي: Kızılay, Kumrular Cd. No:16 D:B, 06520 Çankaya/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Ama Furkan",
+      "uni": {
+        "tr": "Dizayn Dental · Çankaya / Ankara",
+        "en": "Dizayn Dental · Çankaya / Ankara",
+        "ar": "Dizayn Dental · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dizayn Dental Hekimleri",
+      "uni": {
+        "tr": "Dizayn Dental | Kızılay Diş Doktoru | Ankara Acil Diş Doktoru",
+        "en": "Dizayn Dental Dental Clinic · Ankara",
+        "ar": "عيادة Dizayn Dental لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 432
+}

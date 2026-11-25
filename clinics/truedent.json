@@ -1,0 +1,107 @@
+{
+  "name": "Özel TrueDent Ağız ve Diş",
+  "shortName": "TrueDent",
+  "shortNameAr": "عيادة TrueDent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=truedent",
+  "phone": "+90 540 357 72 72",
+  "whatsapp": "905403577272",
+  "instagram": "",
+  "address": "Yakacık, Fatih Cd. No:112 D:c, 06280 Keçiören/Ankara",
+  "district": "Keçiören",
+  "districtAr": "كيتشي أورين",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Keçiören",
+    "Ankara",
+    "Çankaya",
+    "Yenimahalle",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "كيتشي أورين",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9858158,
+    "lng": 32.8646654
+  },
+  "placeId": "ChIJrxL4fg9N0xQRvH3RkRaDfv0",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Keçiören",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Keçiören",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كيتشي أورين"
+  },
+  "accessNote": {
+    "tr": "Yakacık, Fatih Cd. No:112 D:c, 06280 Keçiören/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Yakacık, Fatih Cd. No:112 D:c, 06280 Keçiören/Ankara.",
+    "ar": "في موقع مركزي: Yakacık, Fatih Cd. No:112 D:c, 06280 Keçiören/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "TrueDent Hekimleri",
+      "uni": {
+        "tr": "Özel TrueDent Ağız ve Diş",
+        "en": "TrueDent Dental Clinic · Ankara",
+        "ar": "عيادة TrueDent لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4,
+  "reviewsCount": 177
+}

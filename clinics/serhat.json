@@ -1,0 +1,179 @@
+{
+  "name": "Serhat Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Serhat Diş Kliniği",
+  "shortNameAr": "عيادة Serhat Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=serhat",
+  "phone": "+90 552 295 83 43",
+  "whatsapp": "905522958343",
+  "instagram": "",
+  "address": "Serhat, 1306. Cadde 14/A, 06010 Yenimahalle/Ankara",
+  "district": "Yenimahalle",
+  "districtAr": "يني محلة",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Yenimahalle",
+    "Ankara",
+    "Çankaya",
+    "Keçiören",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "يني محلة",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9847965,
+    "lng": 32.7659266
+  },
+  "placeId": "ChIJncfRrX9J0xQRA-s7cVXcKPA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenimahalle",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenimahalle",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني محلة"
+  },
+  "accessNote": {
+    "tr": "Serhat, 1306. Cadde 14/A, 06010 Yenimahalle/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Serhat, 1306. Cadde 14/A, 06010 Yenimahalle/Ankara.",
+    "ar": "في موقع مركزي: Serhat, 1306. Cadde 14/A, 06010 Yenimahalle/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Serkan",
+      "uni": {
+        "tr": "Serhat Diş Kliniği · Yenimahalle / Ankara",
+        "en": "Serhat Diş Kliniği · Yenimahalle / Ankara",
+        "ar": "Serhat Diş Kliniği · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Doktorum Arda",
+      "uni": {
+        "tr": "Serhat Diş Kliniği · Yenimahalle / Ankara",
+        "en": "Serhat Diş Kliniği · Yenimahalle / Ankara",
+        "ar": "Serhat Diş Kliniği · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Serhat Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Serhat Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Serhat Diş Kliniği Dental Clinic · Ankara",
+        "ar": "عيادة Serhat Diş Kliniği لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.6,
+  "reviewsCount": 179
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Metrodiş Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Metrodiş",
+  "shortNameAr": "عيادة Metrodiş",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=metrodis",
+  "phone": "+90 532 590 39 30",
+  "whatsapp": "905325903930",
+  "instagram": "",
+  "address": "Sucuzade, Güney Kuşak Blv. 97/A, 01030 Seyhan/Adana",
+  "district": "Seyhan",
+  "districtAr": "سيهان",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Seyhan",
+    "Adana",
+    "Çukurova",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "سيهان",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 36.9822269,
+    "lng": 35.3211642
+  },
+  "placeId": "ChIJ_XB-sPWFKBURDALNJMqs16A",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Seyhan",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Seyhan",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · سيهان"
+  },
+  "accessNote": {
+    "tr": "Sucuzade, Güney Kuşak Blv. 97/A, 01030 Seyhan/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Sucuzade, Güney Kuşak Blv. 97/A, 01030 Seyhan/Adana.",
+    "ar": "في موقع مركزي: Sucuzade, Güney Kuşak Blv. 97/A, 01030 Seyhan/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Metrodiş Hekimleri",
+      "uni": {
+        "tr": "Metrodiş Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Metrodiş Dental Clinic · Adana",
+        "ar": "عيادة Metrodiş لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.5,
+  "reviewsCount": 43
+}

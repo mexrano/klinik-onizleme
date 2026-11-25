@@ -1,0 +1,142 @@
+{
+  "name": "DENTAŞEN Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dentaşen",
+  "shortNameAr": "عيادة Dentaşen",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentasen",
+  "phone": "+90 549 129 26 29",
+  "whatsapp": "905491292629",
+  "instagram": "",
+  "address": "Güneştepe, 2. Meşe Cd. no:30-32/B, 16000 Osmangazi̇/Bursa",
+  "district": "Osmangazi",
+  "districtAr": "عثمان غازي",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Osmangazi",
+    "Bursa",
+    "Nilüfer",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "عثمان غازي",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.2534864,
+    "lng": 29.002327
+  },
+  "placeId": "ChIJawciSzoVyhQRf3SGxlbOodY",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Osmangazi",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Osmangazi",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · عثمان غازي"
+  },
+  "accessNote": {
+    "tr": "Güneştepe, 2. Meşe Cd. no:30-32/B, 16000 Osmangazi̇/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at Güneştepe, 2. Meşe Cd. no:30-32/B, 16000 Osmangazi̇/Bursa.",
+    "ar": "في موقع مركزي: Güneştepe, 2. Meşe Cd. no:30-32/B, 16000 Osmangazi̇/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Tuna",
+      "uni": {
+        "tr": "Dentaşen · Osmangazi / Bursa",
+        "en": "Dentaşen · Osmangazi / Bursa",
+        "ar": "Dentaşen · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentaşen Hekimleri",
+      "uni": {
+        "tr": "DENTAŞEN Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dentaşen Dental Clinic · Bursa",
+        "ar": "عيادة Dentaşen لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 71
+}

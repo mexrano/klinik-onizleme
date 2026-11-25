@@ -1,0 +1,143 @@
+{
+  "name": "Ege Estetik Ağız ve Diş Sağlığı Merkezi",
+  "shortName": "Ege Estetik",
+  "shortNameAr": "عيادة Ege Estetik",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=ege-estetik",
+  "phone": "+90 541 386 25 00",
+  "whatsapp": "905413862500",
+  "instagram": "",
+  "address": "Ataşehir, 8229/1. Sk. No:3/1, 35630 Çiğli/İzmir",
+  "district": "Çiğli",
+  "districtAr": "تشيغلي",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Çiğli",
+    "İzmir",
+    "Karşıyaka",
+    "Bornova",
+    "Konak"
+  ],
+  "localAreasAr": [
+    "تشيغلي",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.492894,
+    "lng": 27.051737
+  },
+  "placeId": "ChIJWUE5ch3RuxQROWifC6eK2xo",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çiğli",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çiğli",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشيغلي"
+  },
+  "accessNote": {
+    "tr": "Ataşehir, 8229/1. Sk. No:3/1, 35630 Çiğli/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Ataşehir, 8229/1. Sk. No:3/1, 35630 Çiğli/İzmir.",
+    "ar": "في موقع مركزي: Ataşehir, 8229/1. Sk. No:3/1, 35630 Çiğli/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Tülay Ödemiş",
+      "uni": {
+        "tr": "Ege Estetik · Çiğli / İzmir",
+        "en": "Ege Estetik · Çiğli / İzmir",
+        "ar": "Ege Estetik · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Ege Estetik Hekimleri",
+      "uni": {
+        "tr": "Ege Estetik Ağız ve Diş Sağlığı Merkezi",
+        "en": "Ege Estetik Dental Clinic · İzmir",
+        "ar": "عيادة Ege Estetik لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 554
+}

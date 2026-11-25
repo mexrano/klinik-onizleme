@@ -1,0 +1,178 @@
+{
+  "name": "DF DİŞ KADIKÖY POLİKLİNİĞİ",
+  "shortName": "DF DİŞ Kadıköy",
+  "shortNameAr": "عيادة DF DİŞ Kadıköy",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=df-kadikoy",
+  "phone": "+90 541 772 21 23",
+  "whatsapp": "905417722123",
+  "instagram": "",
+  "address": "Hasanpaşa, Fahrettin Kerim Gökay Cd No:49, 34722 Kadıköy/İstanbul",
+  "district": "Kadıköy",
+  "districtAr": "كاديكوي",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": [
+    "Kadıköy",
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
+  ],
+  "localAreasAr": [
+    "كاديكوي",
+    "إسطنبول"
+  ],
+  "coords": {
+    "lat": 40.992603,
+    "lng": 29.038919
+  },
+  "placeId": "ChIJCbPL62i5yhQRlCuPETnAcrE",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Kadıköy",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Kadıköy",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كاديكوي"
+  },
+  "accessNote": {
+    "tr": "Hasanpaşa, Fahrettin Kerim Gökay Cd No:49, 34722 Kadıköy/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Hasanpaşa, Fahrettin Kerim Gökay Cd No:49, 34722 Kadıköy/İstanbul.",
+    "ar": "في موقع مركزي: Hasanpaşa, Fahrettin Kerim Gökay Cd No:49, 34722 Kadıköy/İstanbul."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Zeynep",
+      "uni": {
+        "tr": "DF DİŞ Kadıköy · Kadıköy / İstanbul",
+        "en": "DF DİŞ Kadıköy · Kadıköy / İstanbul",
+        "ar": "DF DİŞ Kadıköy · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Oğuzhan",
+      "uni": {
+        "tr": "DF DİŞ Kadıköy · Kadıköy / İstanbul",
+        "en": "DF DİŞ Kadıköy · Kadıköy / İstanbul",
+        "ar": "DF DİŞ Kadıköy · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "DF DİŞ Kadıköy Hekimleri",
+      "uni": {
+        "tr": "DF DİŞ KADIKÖY POLİKLİNİĞİ",
+        "en": "DF DİŞ Kadıköy Dental Clinic · İstanbul",
+        "ar": "عيادة DF DİŞ Kadıköy لطب الأسنان · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.5,
+  "reviewsCount": 53
+}

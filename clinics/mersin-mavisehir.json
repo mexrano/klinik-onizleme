@@ -1,0 +1,106 @@
+{
+  "name": "Mersin Özel Mavişehir Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Mersin Özel Mavişehir",
+  "shortNameAr": "عيادة Mersin Özel Mavişehir",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mersin-mavisehir",
+  "phone": "+90 531 558 16 33",
+  "whatsapp": "905315581633",
+  "instagram": "",
+  "address": "Bahçelievler, Hüseyin Okan Merzeci Blv Akil İş Merkezi D:519 A, 33000 Yenişehir/Mersin",
+  "district": "Yenişehir",
+  "districtAr": "يني شهير",
+  "neighborhood": "Mersin",
+  "neighborhoodAr": "مرسين",
+  "localAreas": [
+    "Yenişehir",
+    "Mersin",
+    "Mezitli",
+    "Toroslar"
+  ],
+  "localAreasAr": [
+    "يني شهير",
+    "مرسين"
+  ],
+  "coords": {
+    "lat": 36.7913894,
+    "lng": 34.5931686
+  },
+  "placeId": "ChIJY_3XZP_1JxUR4pTJGwb3RQo",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenişehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenişehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني شهير"
+  },
+  "accessNote": {
+    "tr": "Bahçelievler, Hüseyin Okan Merzeci Blv Akil İş Merkezi D:519 A, 33000 Yenişehir/Mersin adresinde merkezi konumda.",
+    "en": "Centrally located at Bahçelievler, Hüseyin Okan Merzeci Blv Akil İş Merkezi D:519 A, 33000 Yenişehir/Mersin.",
+    "ar": "في موقع مركزي: Bahçelievler, Hüseyin Okan Merzeci Blv Akil İş Merkezi D:519 A, 33000 Yenişehir/Mersin."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Mersin Özel Mavişehir Hekimleri",
+      "uni": {
+        "tr": "Mersin Özel Mavişehir Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Mersin Özel Mavişehir Dental Clinic · Mersin",
+        "ar": "عيادة Mersin Özel Mavişehir لطب الأسنان · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 50
+}
