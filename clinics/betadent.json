@@ -1,0 +1,107 @@
+{
+  "name": "Betadent Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Betadent",
+  "shortNameAr": "عيادة Betadent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=betadent",
+  "phone": "+90 501 374 80 85",
+  "whatsapp": "905013748085",
+  "instagram": "https://www.instagram.com/betadenttr/",
+  "address": "Kızıltoprak, 919. Sk. No:23/A, 07300 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8884955,
+    "lng": 30.7315671
+  },
+  "placeId": "ChIJC28JBs-FwxQRmFE3eL2j9jE",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Kızıltoprak, 919. Sk. No:23/A, 07300 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Kızıltoprak, 919. Sk. No:23/A, 07300 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Kızıltoprak, 919. Sk. No:23/A, 07300 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Betadent Hekimleri",
+      "uni": {
+        "tr": "Betadent Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Betadent Dental Clinic · Antalya",
+        "ar": "عيادة Betadent لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 191
+}

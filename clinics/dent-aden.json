@@ -1,0 +1,179 @@
+{
+  "name": "Dent Aden | Etimesgut Diş Kliniği - Diş Teli- İmplant - Diş Hekimi",
+  "shortName": "Dent Aden",
+  "shortNameAr": "عيادة Dent Aden",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dent-aden",
+  "phone": "+90 530 826 23 36",
+  "whatsapp": "905308262336",
+  "instagram": "https://www.instagram.com/dentadenklinik/",
+  "address": "Eryaman mahallesi 271. Cad. Rada Park AVM No: 3/27, 06824 Etimesgut/Ankara",
+  "district": "Etimesgut",
+  "districtAr": "إتيمسغوت",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Etimesgut",
+    "Ankara",
+    "Çankaya",
+    "Yenimahalle",
+    "Keçiören"
+  ],
+  "localAreasAr": [
+    "إتيمسغوت",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.978618,
+    "lng": 32.626824
+  },
+  "placeId": "ChIJzfsOaK4x0xQR42AM3TuPICA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Etimesgut",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Etimesgut",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · إتيمسغوت"
+  },
+  "accessNote": {
+    "tr": "Eryaman mahallesi 271. Cad. Rada Park AVM No: 3/27, 06824 Etimesgut/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Eryaman mahallesi 271. Cad. Rada Park AVM No: 3/27, 06824 Etimesgut/Ankara.",
+    "ar": "في موقع مركزي: Eryaman mahallesi 271. Cad. Rada Park AVM No: 3/27, 06824 Etimesgut/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Furkan",
+      "uni": {
+        "tr": "Dent Aden · Etimesgut / Ankara",
+        "en": "Dent Aden · Etimesgut / Ankara",
+        "ar": "Dent Aden · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Yağmur",
+      "uni": {
+        "tr": "Dent Aden · Etimesgut / Ankara",
+        "en": "Dent Aden · Etimesgut / Ankara",
+        "ar": "Dent Aden · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dent Aden Hekimleri",
+      "uni": {
+        "tr": "Dent Aden | Etimesgut Diş Kliniği - Diş Teli- İmplant - Diş Hekimi",
+        "en": "Dent Aden Dental Clinic · Ankara",
+        "ar": "عيادة Dent Aden لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 224
+}

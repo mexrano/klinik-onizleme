@@ -1,0 +1,143 @@
+{
+  "name": "Özel Karşıyaka Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Karşıyaka Diş Kliniği",
+  "shortNameAr": "عيادة Karşıyaka Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=karsiyaka",
+  "phone": "+90 501 143 35 23",
+  "whatsapp": "905011433523",
+  "instagram": "https://www.instagram.com/ozelkarsiyaka/",
+  "address": "İmbatlı, 6086. Sk. 52/A, 35575 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4766919,
+    "lng": 27.1062784
+  },
+  "placeId": "ChIJj6scPM7ZuxQRtSUB5pn4xGA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "İmbatlı, 6086. Sk. 52/A, 35575 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at İmbatlı, 6086. Sk. 52/A, 35575 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: İmbatlı, 6086. Sk. 52/A, 35575 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Menderes",
+      "uni": {
+        "tr": "Karşıyaka Diş Kliniği · Karşıyaka / İzmir",
+        "en": "Karşıyaka Diş Kliniği · Karşıyaka / İzmir",
+        "ar": "Karşıyaka Diş Kliniği · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Karşıyaka Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Özel Karşıyaka Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Karşıyaka Diş Kliniği Dental Clinic · İzmir",
+        "ar": "عيادة Karşıyaka Diş Kliniği لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 49
+}

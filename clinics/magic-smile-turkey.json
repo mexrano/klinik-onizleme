@@ -1,0 +1,107 @@
+{
+  "name": "Magic Smile Turkey",
+  "shortName": "Magic Smile Turkey",
+  "shortNameAr": "عيادة Magic Smile Turkey",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=magic-smile-turkey",
+  "phone": "+90 542 126 07 27",
+  "whatsapp": "905421260727",
+  "instagram": "https://www.instagram.com/magicsmileturkey/",
+  "address": "Güzeloba, Barınaklar Blv. No:131/1, 07230 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8566425,
+    "lng": 30.7832187
+  },
+  "placeId": "ChIJL8i-DdWbwxQR1B6uLsH_Gy0",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Güzeloba, Barınaklar Blv. No:131/1, 07230 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Güzeloba, Barınaklar Blv. No:131/1, 07230 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Güzeloba, Barınaklar Blv. No:131/1, 07230 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Magic Smile Turkey Hekimleri",
+      "uni": {
+        "tr": "Magic Smile Turkey",
+        "en": "Magic Smile Turkey Dental Clinic · Antalya",
+        "ar": "عيادة Magic Smile Turkey لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 549
+}

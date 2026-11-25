@@ -1,0 +1,179 @@
+{
+  "name": "Özel GG Smile Clinic Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "GG Smile Clinic",
+  "shortNameAr": "عيادة GG Smile Clinic",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=gg-smile-clinic",
+  "phone": "+90 534 637 77 20",
+  "whatsapp": "905346377720",
+  "instagram": "https://www.instagram.com/ggsmileclinic/",
+  "address": "GG Smile Clinic Ağız ve Diş Sağlığı Polikliniği, Üçgen, 07040 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8963318,
+    "lng": 30.6962919
+  },
+  "placeId": "ChIJq4EVCEGPwxQRUUxJ9HThp84",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "GG Smile Clinic Ağız ve Diş Sağlığı Polikliniği, Üçgen, 07040 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at GG Smile Clinic Ağız ve Diş Sağlığı Polikliniği, Üçgen, 07040 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: GG Smile Clinic Ağız ve Diş Sağlığı Polikliniği, Üçgen, 07040 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Adem",
+      "uni": {
+        "tr": "GG Smile Clinic · Muratpaşa / Antalya",
+        "en": "GG Smile Clinic · Muratpaşa / Antalya",
+        "ar": "GG Smile Clinic · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Doktorum Adem",
+      "uni": {
+        "tr": "GG Smile Clinic · Muratpaşa / Antalya",
+        "en": "GG Smile Clinic · Muratpaşa / Antalya",
+        "ar": "GG Smile Clinic · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "GG Smile Clinic Hekimleri",
+      "uni": {
+        "tr": "Özel GG Smile Clinic Ağız ve Diş Sağlığı Polikliniği",
+        "en": "GG Smile Clinic Dental Clinic · Antalya",
+        "ar": "عيادة GG Smile Clinic لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 77
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Diş hekimi Adem GÜRÜP Karşıyaka İzmir",
+  "shortName": "Diş hekimi Adem GÜRÜP",
+  "shortNameAr": "عيادة Diş hekimi Adem GÜRÜP",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=adem-gurup",
+  "phone": "+90 553 826 26 00",
+  "whatsapp": "905538262600",
+  "instagram": "https://www.instagram.com/dtademgurup/",
+  "address": "Bostanlı, Şehitler Blv No:37/B, 35590 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4592979,
+    "lng": 27.100053
+  },
+  "placeId": "ChIJZ7GiUAPZuxQRGVEWv9aODug",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "Bostanlı, Şehitler Blv No:37/B, 35590 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Bostanlı, Şehitler Blv No:37/B, 35590 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: Bostanlı, Şehitler Blv No:37/B, 35590 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Adem",
+      "uni": {
+        "tr": "Diş hekimi Adem GÜRÜP · Karşıyaka / İzmir",
+        "en": "Diş hekimi Adem GÜRÜP · Karşıyaka / İzmir",
+        "ar": "Diş hekimi Adem GÜRÜP · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Kübra",
+      "uni": {
+        "tr": "Diş hekimi Adem GÜRÜP · Karşıyaka / İzmir",
+        "en": "Diş hekimi Adem GÜRÜP · Karşıyaka / İzmir",
+        "ar": "Diş hekimi Adem GÜRÜP · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Diş hekimi Adem GÜRÜP Hekimleri",
+      "uni": {
+        "tr": "Diş hekimi Adem GÜRÜP Karşıyaka İzmir",
+        "en": "Diş hekimi Adem GÜRÜP Dental Clinic · İzmir",
+        "ar": "عيادة Diş hekimi Adem GÜRÜP لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 138
+}

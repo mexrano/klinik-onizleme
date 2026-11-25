@@ -1,0 +1,107 @@
+{
+  "name": "Özel Şemikler Kar Beyazı Ağız ve Diş Sağlığı Polikliniği Karşıyaka",
+  "shortName": "Şemikler Kar Beyazı",
+  "shortNameAr": "عيادة Şemikler Kar Beyazı",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=semikler-kar-beyazi",
+  "phone": "+90 505 429 57 19",
+  "whatsapp": "905054295719",
+  "instagram": "",
+  "address": "Şemikler, Ordu Blv No:159/C, 35560 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4716086,
+    "lng": 27.0982554
+  },
+  "placeId": "ChIJexIqr8PZuxQRAazqJsFTBYA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "Şemikler, Ordu Blv No:159/C, 35560 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Şemikler, Ordu Blv No:159/C, 35560 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: Şemikler, Ordu Blv No:159/C, 35560 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Şemikler Kar Beyazı Hekimleri",
+      "uni": {
+        "tr": "Özel Şemikler Kar Beyazı Ağız ve Diş Sağlığı Polikliniği Karşıyaka",
+        "en": "Şemikler Kar Beyazı Dental Clinic · İzmir",
+        "ar": "عيادة Şemikler Kar Beyazı لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 543
+}

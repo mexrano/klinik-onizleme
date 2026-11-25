@@ -1,0 +1,179 @@
+{
+  "name": "Villa Lara Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Villa Lara",
+  "shortNameAr": "عيادة Villa Lara",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=villa-lara",
+  "phone": "+90 507 530 43 43",
+  "whatsapp": "905075304343",
+  "instagram": "https://www.instagram.com/villalaraturkey/",
+  "address": "Çağlayan, Barınaklar Blv. No:70, 07230 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8516706,
+    "lng": 30.7703569
+  },
+  "placeId": "ChIJCyT6RtSbwxQRHkabRLAPHWY",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Çağlayan, Barınaklar Blv. No:70, 07230 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Çağlayan, Barınaklar Blv. No:70, 07230 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Çağlayan, Barınaklar Blv. No:70, 07230 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Abdullah",
+      "uni": {
+        "tr": "Villa Lara · Muratpaşa / Antalya",
+        "en": "Villa Lara · Muratpaşa / Antalya",
+        "ar": "Villa Lara · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Dürdane",
+      "uni": {
+        "tr": "Villa Lara · Muratpaşa / Antalya",
+        "en": "Villa Lara · Muratpaşa / Antalya",
+        "ar": "Villa Lara · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Villa Lara Hekimleri",
+      "uni": {
+        "tr": "Villa Lara Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Villa Lara Dental Clinic · Antalya",
+        "ar": "عيادة Villa Lara لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 424
+}

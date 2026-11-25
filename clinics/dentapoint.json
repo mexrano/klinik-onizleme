@@ -1,0 +1,179 @@
+{
+  "name": "Özel DentaPoint Diş Polikliniği Karşıyaka Şubesi Zirkonyum , Diş İmplantı , Estetik Diş Tedavileri , Ortodonti",
+  "shortName": "DentaPoint",
+  "shortNameAr": "عيادة DentaPoint",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentapoint",
+  "phone": "+90 542 526 76 70",
+  "whatsapp": "905425267670",
+  "instagram": "https://www.instagram.com/dentapoint/",
+  "address": "Bahriye Üçok, Girne Blv No : 154/A, 35550 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4640388,
+    "lng": 27.1088675
+  },
+  "placeId": "ChIJoUQhlY_ZuxQRkVXGtUBk7n4",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "Bahriye Üçok, Girne Blv No : 154/A, 35550 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Bahriye Üçok, Girne Blv No : 154/A, 35550 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: Bahriye Üçok, Girne Blv No : 154/A, 35550 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Ayşen",
+      "uni": {
+        "tr": "DentaPoint · Karşıyaka / İzmir",
+        "en": "DentaPoint · Karşıyaka / İzmir",
+        "ar": "DentaPoint · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Başta Ayşen",
+      "uni": {
+        "tr": "DentaPoint · Karşıyaka / İzmir",
+        "en": "DentaPoint · Karşıyaka / İzmir",
+        "ar": "DentaPoint · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "DentaPoint Hekimleri",
+      "uni": {
+        "tr": "Özel DentaPoint Diş Polikliniği Karşıyaka Şubesi Zirkonyum , Diş İmplantı , Estetik Diş Tedavileri , Ortodonti",
+        "en": "DentaPoint Dental Clinic · İzmir",
+        "ar": "عيادة DentaPoint لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 365
+}

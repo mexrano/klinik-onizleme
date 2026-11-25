@@ -1,0 +1,105 @@
+{
+  "name": "DENTAREN Ağız ve Diş Sağlığı Polikliniği | Gaziantep",
+  "shortName": "Dentaren",
+  "shortNameAr": "عيادة Dentaren",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentaren",
+  "phone": "+90 501 335 00 20",
+  "whatsapp": "905013350020",
+  "instagram": "https://www.instagram.com/dentaren27/",
+  "address": "Binevler, Üniversite Blv. No: 220 A İç kapı no : 22, 27000 Şahinbey/Gaziantep",
+  "district": "Şahinbey",
+  "districtAr": "شاهين بيه",
+  "neighborhood": "Gaziantep",
+  "neighborhoodAr": "غازي عنتاب",
+  "localAreas": [
+    "Şahinbey",
+    "Gaziantep",
+    "Şehitkamil"
+  ],
+  "localAreasAr": [
+    "شاهين بيه",
+    "غازي عنتاب"
+  ],
+  "coords": {
+    "lat": 37.0457631,
+    "lng": 37.3272923
+  },
+  "placeId": "ChIJ-1fPzfHhMRURWxFvjjtBCOk",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şahinbey",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şahinbey",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شاهين بيه"
+  },
+  "accessNote": {
+    "tr": "Binevler, Üniversite Blv. No: 220 A İç kapı no : 22, 27000 Şahinbey/Gaziantep adresinde merkezi konumda.",
+    "en": "Centrally located at Binevler, Üniversite Blv. No: 220 A İç kapı no : 22, 27000 Şahinbey/Gaziantep.",
+    "ar": "في موقع مركزي: Binevler, Üniversite Blv. No: 220 A İç kapı no : 22, 27000 Şahinbey/Gaziantep."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentaren Hekimleri",
+      "uni": {
+        "tr": "DENTAREN Ağız ve Diş Sağlığı Polikliniği | Gaziantep",
+        "en": "Dentaren Dental Clinic · Gaziantep",
+        "ar": "عيادة Dentaren لطب الأسنان · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.3,
+  "reviewsCount": 28
+}

@@ -1,0 +1,107 @@
+{
+  "name": "BatıKlinik Ağız ve Diş Sağlığı Polikliniği - Protez Uzmanı, Batıkent İmplant Tedavisi, Batıkent Diş Hekimi",
+  "shortName": "BatıKlinik",
+  "shortNameAr": "عيادة BatıKlinik",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=batiklinik",
+  "phone": "+90 555 142 75 84",
+  "whatsapp": "905551427584",
+  "instagram": "https://www.instagram.com/bati.klinik/",
+  "address": "Ergazi Mahallesi Batı Bulvarı 109/B/F Nevadium, 06370 Yenimahalle/Ankara",
+  "district": "Yenimahalle",
+  "districtAr": "يني محلة",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Yenimahalle",
+    "Ankara",
+    "Çankaya",
+    "Keçiören",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "يني محلة",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9557724,
+    "lng": 32.7075996
+  },
+  "placeId": "ChIJi9KzW3RH0xQRrap2RJqWHT0",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenimahalle",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenimahalle",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني محلة"
+  },
+  "accessNote": {
+    "tr": "Ergazi Mahallesi Batı Bulvarı 109/B/F Nevadium, 06370 Yenimahalle/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Ergazi Mahallesi Batı Bulvarı 109/B/F Nevadium, 06370 Yenimahalle/Ankara.",
+    "ar": "في موقع مركزي: Ergazi Mahallesi Batı Bulvarı 109/B/F Nevadium, 06370 Yenimahalle/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "BatıKlinik Hekimleri",
+      "uni": {
+        "tr": "BatıKlinik Ağız ve Diş Sağlığı Polikliniği - Protez Uzmanı, Batıkent İmplant Tedavisi, Batıkent Diş Hekimi",
+        "en": "BatıKlinik Dental Clinic · Ankara",
+        "ar": "عيادة BatıKlinik لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.7,
+  "reviewsCount": 63
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Özel Mersin Denta Art Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Mersin Denta Art",
+  "shortNameAr": "عيادة Mersin Denta Art",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mersin-denta-art",
+  "phone": "+90 543 477 41 33",
+  "whatsapp": "905434774133",
+  "instagram": "",
+  "address": "İnönü, 1408. Sk. gür sitesi b blok no:13/1, 33130 Yenişehir/Mersin",
+  "district": "Yenişehir",
+  "districtAr": "يني شهير",
+  "neighborhood": "Mersin",
+  "neighborhoodAr": "مرسين",
+  "localAreas": [
+    "Yenişehir",
+    "Mersin",
+    "Mezitli",
+    "Toroslar"
+  ],
+  "localAreasAr": [
+    "يني شهير",
+    "مرسين"
+  ],
+  "coords": {
+    "lat": 36.7817491,
+    "lng": 34.5913336
+  },
+  "placeId": "ChIJOx-o_bb1JxUR7-3T15roM0k",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenişehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenişehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني شهير"
+  },
+  "accessNote": {
+    "tr": "İnönü, 1408. Sk. gür sitesi b blok no:13/1, 33130 Yenişehir/Mersin adresinde merkezi konumda.",
+    "en": "Centrally located at İnönü, 1408. Sk. gür sitesi b blok no:13/1, 33130 Yenişehir/Mersin.",
+    "ar": "في موقع مركزي: İnönü, 1408. Sk. gür sitesi b blok no:13/1, 33130 Yenişehir/Mersin."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Mersin Denta Art Hekimleri",
+      "uni": {
+        "tr": "Özel Mersin Denta Art Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Mersin Denta Art Dental Clinic · Mersin",
+        "ar": "عيادة Mersin Denta Art لطب الأسنان · مرسين"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 193
+}

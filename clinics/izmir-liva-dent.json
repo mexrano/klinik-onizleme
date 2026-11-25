@@ -1,0 +1,143 @@
+{
+  "name": "Özel İzmir Liva Dent Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "İzmir Liva Dent",
+  "shortNameAr": "عيادة İzmir Liva Dent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=izmir-liva-dent",
+  "phone": "+90 533 272 54 82",
+  "whatsapp": "905332725482",
+  "instagram": "https://www.instagram.com/livadentizmir/",
+  "address": "Atakent, Caher Dudayev Blv No:161/A, 35590 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4646063,
+    "lng": 27.0911363
+  },
+  "placeId": "ChIJGSlhTGvZuxQRraXtDJJ_4Yw",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "Atakent, Caher Dudayev Blv No:161/A, 35590 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Atakent, Caher Dudayev Blv No:161/A, 35590 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: Atakent, Caher Dudayev Blv No:161/A, 35590 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Ruken",
+      "uni": {
+        "tr": "İzmir Liva Dent · Karşıyaka / İzmir",
+        "en": "İzmir Liva Dent · Karşıyaka / İzmir",
+        "ar": "İzmir Liva Dent · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "İzmir Liva Dent Hekimleri",
+      "uni": {
+        "tr": "Özel İzmir Liva Dent Ağız ve Diş Sağlığı Polikliniği",
+        "en": "İzmir Liva Dent Dental Clinic · İzmir",
+        "ar": "عيادة İzmir Liva Dent لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 202
+}

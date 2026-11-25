@@ -1,0 +1,105 @@
+{
+  "name": "Adana Diş Kliniği",
+  "shortName": "Adana Diş Kliniği",
+  "shortNameAr": "عيادة Adana Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=adana",
+  "phone": "+90 555 027 35 39",
+  "whatsapp": "905550273539",
+  "instagram": "",
+  "address": "Toros, Şehitler Bulvarı No:11, 01170 Çukurova/Adana",
+  "district": "Çukurova",
+  "districtAr": "تشوكوروفا",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Çukurova",
+    "Adana",
+    "Seyhan",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "تشوكوروفا",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 37.0323499,
+    "lng": 35.3088433
+  },
+  "placeId": "ChIJdzKWetGOKBURZMQ9agsuWrY",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çukurova",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çukurova",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشوكوروفا"
+  },
+  "accessNote": {
+    "tr": "Toros, Şehitler Bulvarı No:11, 01170 Çukurova/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Toros, Şehitler Bulvarı No:11, 01170 Çukurova/Adana.",
+    "ar": "في موقع مركزي: Toros, Şehitler Bulvarı No:11, 01170 Çukurova/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Adana Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Adana Diş Kliniği",
+        "en": "Adana Diş Kliniği Dental Clinic · Adana",
+        "ar": "عيادة Adana Diş Kliniği لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9
+}

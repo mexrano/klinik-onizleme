@@ -1,0 +1,106 @@
+{
+  "name": "Klinik Adana Diş Polikliniği",
+  "shortName": "Klinik Adana",
+  "shortNameAr": "عيادة Klinik Adana",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=klinik-adana",
+  "phone": "+90 538 428 51 38",
+  "whatsapp": "905384285138",
+  "instagram": "https://www.instagram.com/klinikadana/",
+  "address": "Güzelyalı, Uğur Mumcu Blv. Adana Kule No:2/6, 01170 Çukurova/Adana",
+  "district": "Çukurova",
+  "districtAr": "تشوكوروفا",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Çukurova",
+    "Adana",
+    "Seyhan",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "تشوكوروفا",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 37.0477256,
+    "lng": 35.302452
+  },
+  "placeId": "ChIJ-_kds82JKBURXxfPxkiraaw",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çukurova",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çukurova",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشوكوروفا"
+  },
+  "accessNote": {
+    "tr": "Güzelyalı, Uğur Mumcu Blv. Adana Kule No:2/6, 01170 Çukurova/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Güzelyalı, Uğur Mumcu Blv. Adana Kule No:2/6, 01170 Çukurova/Adana.",
+    "ar": "في موقع مركزي: Güzelyalı, Uğur Mumcu Blv. Adana Kule No:2/6, 01170 Çukurova/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Klinik Adana Hekimleri",
+      "uni": {
+        "tr": "Klinik Adana Diş Polikliniği",
+        "en": "Klinik Adana Dental Clinic · Adana",
+        "ar": "عيادة Klinik Adana لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 348
+}

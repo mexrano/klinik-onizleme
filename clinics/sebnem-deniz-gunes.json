@@ -1,0 +1,179 @@
+{
+  "name": "Uzm. Dt. Şebnem Deniz Güneş | Ortodonti Uzmanı",
+  "shortName": "Uzm. Dt. Şebnem Deniz Güneş",
+  "shortNameAr": "عيادة Uzm. Dt. Şebnem Deniz Güneş",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=sebnem-deniz-gunes",
+  "phone": "+90 540 160 05 05",
+  "whatsapp": "905401600505",
+  "instagram": "https://www.instagram.com/sebnemdenizgunes/",
+  "address": "Ulus Mah. Namık Kemal Bulvarı, Fikri Erten Cd. İş Merkezi No:14 D:5 M, 07025 Kepez/Antalya",
+  "district": "Kepez",
+  "districtAr": "كيبيز",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Kepez",
+    "Antalya",
+    "Muratpaşa",
+    "Lara",
+    "Konyaaltı"
+  ],
+  "localAreasAr": [
+    "كيبيز",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.907743,
+    "lng": 30.681708
+  },
+  "placeId": "ChIJge-mPiiPwxQRvCWliqWzuX0",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Kepez",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Kepez",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كيبيز"
+  },
+  "accessNote": {
+    "tr": "Ulus Mah. Namık Kemal Bulvarı, Fikri Erten Cd. İş Merkezi No:14 D:5 M, 07025 Kepez/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Ulus Mah. Namık Kemal Bulvarı, Fikri Erten Cd. İş Merkezi No:14 D:5 M, 07025 Kepez/Antalya.",
+    "ar": "في موقع مركزي: Ulus Mah. Namık Kemal Bulvarı, Fikri Erten Cd. İş Merkezi No:14 D:5 M, 07025 Kepez/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Uzm. Dt.",
+        "en": "Specialist Dentist",
+        "ar": "طبيب أسنان أخصائي"
+      },
+      "name": "Şebnem Deniz Güneş",
+      "uni": {
+        "tr": "Uzm. Dt. Şebnem Deniz Güneş · Kepez / Antalya",
+        "en": "Uzm. Dt. Şebnem Deniz Güneş · Kepez / Antalya",
+        "ar": "Uzm. Dt. Şebnem Deniz Güneş · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Seçil",
+      "uni": {
+        "tr": "Uzm. Dt. Şebnem Deniz Güneş · Kepez / Antalya",
+        "en": "Uzm. Dt. Şebnem Deniz Güneş · Kepez / Antalya",
+        "ar": "Uzm. Dt. Şebnem Deniz Güneş · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Uzm. Dt. Şebnem Deniz Güneş Hekimleri",
+      "uni": {
+        "tr": "Uzm. Dt. Şebnem Deniz Güneş | Ortodonti Uzmanı",
+        "en": "Uzm. Dt. Şebnem Deniz Güneş Dental Clinic · Antalya",
+        "ar": "عيادة Uzm. Dt. Şebnem Deniz Güneş لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 92
+}

@@ -1,0 +1,178 @@
+{
+  "name": "Diş Hekimi Sibel Özen Seyhan Adana Elmas Diş Kliniği",
+  "shortName": "Diş Hekimi Sibel Özen",
+  "shortNameAr": "عيادة Diş Hekimi Sibel Özen",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=sibel-ozen",
+  "phone": "+90 551 597 87 92",
+  "whatsapp": "905515978792",
+  "instagram": "https://www.instagram.com/elmasdisadana/",
+  "address": "Bülent Angın Bulvarı, 69100. Sk. Huriye Kahya Apt K:1 D:1, 01010 Seyhan/Adana",
+  "district": "Seyhan",
+  "districtAr": "سيهان",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Seyhan",
+    "Adana",
+    "Çukurova",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "سيهان",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 37.0172669,
+    "lng": 35.3182227
+  },
+  "placeId": "ChIJSe-8TwWPKBUR4Ayei6cAKeE",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Seyhan",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Seyhan",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · سيهان"
+  },
+  "accessNote": {
+    "tr": "Bülent Angın Bulvarı, 69100. Sk. Huriye Kahya Apt K:1 D:1, 01010 Seyhan/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Bülent Angın Bulvarı, 69100. Sk. Huriye Kahya Apt K:1 D:1, 01010 Seyhan/Adana.",
+    "ar": "في موقع مركزي: Bülent Angın Bulvarı, 69100. Sk. Huriye Kahya Apt K:1 D:1, 01010 Seyhan/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Sibel",
+      "uni": {
+        "tr": "Diş Hekimi Sibel Özen · Seyhan / Adana",
+        "en": "Diş Hekimi Sibel Özen · Seyhan / Adana",
+        "ar": "Diş Hekimi Sibel Özen · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Sibel Özen",
+      "uni": {
+        "tr": "Diş Hekimi Sibel Özen · Seyhan / Adana",
+        "en": "Diş Hekimi Sibel Özen · Seyhan / Adana",
+        "ar": "Diş Hekimi Sibel Özen · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Diş Hekimi Sibel Özen Hekimleri",
+      "uni": {
+        "tr": "Diş Hekimi Sibel Özen Seyhan Adana Elmas Diş Kliniği",
+        "en": "Diş Hekimi Sibel Özen Dental Clinic · Adana",
+        "ar": "عيادة Diş Hekimi Sibel Özen لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 403
+}

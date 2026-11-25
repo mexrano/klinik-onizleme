@@ -1,0 +1,141 @@
+{
+  "name": "DENTİDİL Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dentidil",
+  "shortNameAr": "عيادة Dentidil",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentidil",
+  "phone": "+90 551 349 25 27",
+  "whatsapp": "905513492527",
+  "instagram": "",
+  "address": "Bozhüyük Apartmanı, 23 Nisan, Üniversite Blv. No:313/B, 27070 Şahinbey/Gaziantep",
+  "district": "Şahinbey",
+  "districtAr": "شاهين بيه",
+  "neighborhood": "Gaziantep",
+  "neighborhoodAr": "غازي عنتاب",
+  "localAreas": [
+    "Şahinbey",
+    "Gaziantep",
+    "Şehitkamil"
+  ],
+  "localAreasAr": [
+    "شاهين بيه",
+    "غازي عنتاب"
+  ],
+  "coords": {
+    "lat": 37.0412208,
+    "lng": 37.322579
+  },
+  "placeId": "ChIJWQWyXwjhMRURjwUStT847F4",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şahinbey",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şahinbey",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شاهين بيه"
+  },
+  "accessNote": {
+    "tr": "Bozhüyük Apartmanı, 23 Nisan, Üniversite Blv. No:313/B, 27070 Şahinbey/Gaziantep adresinde merkezi konumda.",
+    "en": "Centrally located at Bozhüyük Apartmanı, 23 Nisan, Üniversite Blv. No:313/B, 27070 Şahinbey/Gaziantep.",
+    "ar": "في موقع مركزي: Bozhüyük Apartmanı, 23 Nisan, Üniversite Blv. No:313/B, 27070 Şahinbey/Gaziantep."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Cihan",
+      "uni": {
+        "tr": "Dentidil · Şahinbey / Gaziantep",
+        "en": "Dentidil · Şahinbey / Gaziantep",
+        "ar": "Dentidil · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentidil Hekimleri",
+      "uni": {
+        "tr": "DENTİDİL Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dentidil Dental Clinic · Gaziantep",
+        "ar": "عيادة Dentidil لطب الأسنان · غازي عنتاب"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 68
+}

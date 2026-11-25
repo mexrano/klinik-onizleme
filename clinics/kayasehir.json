@@ -1,29 +1,25 @@
 {
   "name": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
   "shortName": "Kayaşehir",
-  "shortNameAr": "Kayaşehir",
-  "url": "http://www.kayasehirdis.com/",
+  "shortNameAr": "عيادة Kayaşehir",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=kayasehir",
   "phone": "+90 534 641 60 64",
   "whatsapp": "905346416064",
   "instagram": "",
   "address": "BF Levent Börek Yanı, Kayabaşı Mh. Gazi Yaşargil Cad. Park Mavera 1.Etap Dükkanları, A06 Blok No:15, 34000 Başakşehir/İstanbul",
   "district": "Başakşehir",
   "districtAr": "باشاك شهير",
-  "neighborhood": "Kayaşehir",
-  "neighborhoodAr": "باشاك شهير",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
   "localAreas": [
     "Başakşehir",
-    "Kayaşehir",
-    "Kayabaşı",
-    "Bahçeşehir",
-    "Fenertepe"
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
   ],
   "localAreasAr": [
     "باشاك شهير",
-    "كاياشهير",
-    "كاياباشي",
-    "باهجة شهير",
-    "فنرتبه"
+    "إسطنبول"
   ],
   "coords": {
     "lat": 41.1175997,
@@ -32,94 +28,68 @@
   "hours": [
     null,
     [
-      "09:30",
+      "09:00",
       "19:30"
     ],
     [
-      "09:30",
+      "09:00",
       "19:30"
     ],
     [
-      "09:30",
+      "09:00",
       "19:30"
     ],
     [
-      "09:30",
+      "09:00",
       "19:30"
     ],
     [
-      "09:30",
+      "09:00",
       "19:30"
     ],
     [
-      "09:30",
-      "17:30"
+      "09:00",
+      "18:00"
     ]
   ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Başakşehir",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Başakşehir",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · باشاك شهير"
+  },
+  "accessNote": {
+    "tr": "BF Levent Börek Yanı, Kayabaşı Mh. Gazi Yaşargil Cad. Park Mavera 1.Etap Dükkanları, A06 Blok No:15, 34000 Başakşehir/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at BF Levent Börek Yanı, Kayabaşı Mh. Gazi Yaşargil Cad. Park Mavera 1.Etap Dükkanları, A06 Blok No:15, 34000 Başakşehir/İstanbul.",
+    "ar": "في موقع مركزي: BF Levent Börek Yanı, Kayabaşı Mh. Gazi Yaşargil Cad. Park Mavera 1.Etap Dükkanları, A06 Blok No:15, 34000 Başakşehir/İstanbul."
+  },
   "doctors": [
     {
       "photo": "/img/doc1.webp",
       "title": {
-        "tr": "Diş Hekimi",
-        "en": "Dentist",
-        "ar": "طبيب أسنان"
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
       },
-      "name": "Kayaşehir Hekim Kadrosu",
+      "name": "Kayaşehir Hekimleri",
       "uni": {
         "tr": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
-        "en": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
-        "ar": "Kayaşehir"
-      },
-      "tags": {
-        "tr": [
-          "İmplant & Cerrahi",
-          "Zirkonyum",
-          "Estetik"
-        ],
-        "en": [
-          "Implants & Surgery",
-          "Zirconia",
-          "Aesthetics"
-        ],
-        "ar": [
-          "زراعة الأسنان",
-          "زركونيوم",
-          "تجميل الأسنان"
-        ]
-      },
-      "langs": [
-        "TR",
-        "EN",
-        "AR"
-      ]
-    },
-    {
-      "photo": "/img/doc3.webp",
-      "title": {
-        "tr": "Uzman Kadro",
-        "en": "Specialist Team",
-        "ar": "الفريق المتخصص"
-      },
-      "name": "Ortodonti & Pedodonti",
-      "uni": {
-        "tr": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
-        "en": "Kayaşehir Ağız ve Diş Sağlığı Polikliniği",
-        "ar": "Kayaşehir"
+        "en": "Kayaşehir Dental Clinic · İstanbul",
+        "ar": "عيادة Kayaşehir لطب الأسنان · إسطنبول"
       },
       "tags": {
         "tr": [
           "Ortodonti",
-          "Şeffaf Plak",
+          "Estetik Dolgu",
           "Çocuk Diş Hekimliği"
         ],
         "en": [
           "Orthodontics",
-          "Aligners",
+          "Restorative Care",
           "Pediatric Care"
         ],
         "ar": [
           "تقويم الأسنان",
-          "التقويم الشفاف",
+          "حشوات تجميلية",
           "طب أسنان الأطفال"
         ]
       },
@@ -129,5 +99,7 @@
         "AR"
       ]
     }
-  ]
+  ],
+  "rating": 4.8,
+  "reviewsCount": 373
 }

@@ -1,0 +1,107 @@
+{
+  "name": "Dent Laracity Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Dent Laracity",
+  "shortNameAr": "عيادة Dent Laracity",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dent-laracity",
+  "phone": "+90 532 411 33 98",
+  "whatsapp": "905324113398",
+  "instagram": "https://www.instagram.com/dentlaracityantalya/",
+  "address": "Çağlayan, Barınaklar Blv. No:19/A, 07230 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8518252,
+    "lng": 30.7644996
+  },
+  "placeId": "ChIJdwd3R7SF0BQRQNJzYJx8dlQ",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Çağlayan, Barınaklar Blv. No:19/A, 07230 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Çağlayan, Barınaklar Blv. No:19/A, 07230 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Çağlayan, Barınaklar Blv. No:19/A, 07230 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dent Laracity Hekimleri",
+      "uni": {
+        "tr": "Dent Laracity Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Dent Laracity Dental Clinic · Antalya",
+        "ar": "عيادة Dent Laracity لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 428
+}

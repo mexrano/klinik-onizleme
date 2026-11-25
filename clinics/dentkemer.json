@@ -1,0 +1,108 @@
+{
+  "name": "Özel DENTKEMER Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dentkemer",
+  "shortNameAr": "عيادة Dentkemer",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentkemer",
+  "phone": "+90 505 429 30 00",
+  "whatsapp": "905054293000",
+  "instagram": "https://www.instagram.com/dentkemerclinic/",
+  "address": "Yeni, Akdeniz Cd. No: 15/A, 07980 Kemer/Antalya",
+  "district": "Kemer",
+  "districtAr": "كيمير",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Kemer",
+    "Antalya",
+    "Muratpaşa",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "كيمير",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.596338,
+    "lng": 30.549074
+  },
+  "placeId": "ChIJB-1uCki3wxQRJu3l_RjGUlk",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Kemer",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Kemer",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كيمير"
+  },
+  "accessNote": {
+    "tr": "Yeni, Akdeniz Cd. No: 15/A, 07980 Kemer/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Yeni, Akdeniz Cd. No: 15/A, 07980 Kemer/Antalya.",
+    "ar": "في موقع مركزي: Yeni, Akdeniz Cd. No: 15/A, 07980 Kemer/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentkemer Hekimleri",
+      "uni": {
+        "tr": "Özel DENTKEMER Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dentkemer Dental Clinic · Antalya",
+        "ar": "عيادة Dentkemer لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 119
+}

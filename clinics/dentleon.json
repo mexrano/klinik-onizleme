@@ -1,0 +1,143 @@
+{
+  "name": "DentLeon Ağız Diş Sağlığı İmplant Polikliniği Bornova",
+  "shortName": "DentLeon",
+  "shortNameAr": "عيادة DentLeon",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentleon",
+  "phone": "+90 501 344 35 36",
+  "whatsapp": "905013443536",
+  "instagram": "https://www.instagram.com/dentleon.izmir/",
+  "address": "Yeşilova, 4032. Sk., 35080 Bornova/İzmir",
+  "district": "Bornova",
+  "districtAr": "بورنوفا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Bornova",
+    "İzmir",
+    "Karşıyaka",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "بورنوفا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4408179,
+    "lng": 27.2011976
+  },
+  "placeId": "ChIJpys_WOB8uRQRzNkpcJpkIQA",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Bornova",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Bornova",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · بورنوفا"
+  },
+  "accessNote": {
+    "tr": "Yeşilova, 4032. Sk., 35080 Bornova/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Yeşilova, 4032. Sk., 35080 Bornova/İzmir.",
+    "ar": "في موقع مركزي: Yeşilova, 4032. Sk., 35080 Bornova/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Uğurcan",
+      "uni": {
+        "tr": "DentLeon · Bornova / İzmir",
+        "en": "DentLeon · Bornova / İzmir",
+        "ar": "DentLeon · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "DentLeon Hekimleri",
+      "uni": {
+        "tr": "DentLeon Ağız Diş Sağlığı İmplant Polikliniği Bornova",
+        "en": "DentLeon Dental Clinic · İzmir",
+        "ar": "عيادة DentLeon لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 1450
+}

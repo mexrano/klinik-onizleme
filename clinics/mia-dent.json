@@ -1,0 +1,178 @@
+{
+  "name": "ÖZEL MİA DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+  "shortName": "MİA Dent",
+  "shortNameAr": "عيادة MİA Dent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mia-dent",
+  "phone": "+90 544 189 16 00",
+  "whatsapp": "905441891600",
+  "instagram": "https://www.instagram.com/ozelmiadent/",
+  "address": "Panayır Mah. 3. Pınar Cad. Alpiş Aden House No : 254 E, 16100 Osmangazi̇/Bursa",
+  "district": "Osmangazi",
+  "districtAr": "عثمان غازي",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Osmangazi",
+    "Bursa",
+    "Nilüfer",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "عثمان غازي",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.2543716,
+    "lng": 29.0644493
+  },
+  "placeId": "ChIJo3QaAh8_yhQRJTXLAGaF4Js",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Osmangazi",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Osmangazi",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · عثمان غازي"
+  },
+  "accessNote": {
+    "tr": "Panayır Mah. 3. Pınar Cad. Alpiş Aden House No : 254 E, 16100 Osmangazi̇/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at Panayır Mah. 3. Pınar Cad. Alpiş Aden House No : 254 E, 16100 Osmangazi̇/Bursa.",
+    "ar": "في موقع مركزي: Panayır Mah. 3. Pınar Cad. Alpiş Aden House No : 254 E, 16100 Osmangazi̇/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Meliha Mutlu",
+      "uni": {
+        "tr": "MİA Dent · Osmangazi / Bursa",
+        "en": "MİA Dent · Osmangazi / Bursa",
+        "ar": "MİA Dent · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Burcu Özdemir",
+      "uni": {
+        "tr": "MİA Dent · Osmangazi / Bursa",
+        "en": "MİA Dent · Osmangazi / Bursa",
+        "ar": "MİA Dent · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "MİA Dent Hekimleri",
+      "uni": {
+        "tr": "ÖZEL MİA DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "MİA Dent Dental Clinic · Bursa",
+        "ar": "عيادة MİA Dent لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 187
+}

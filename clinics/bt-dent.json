@@ -1,0 +1,179 @@
+{
+  "name": "BT DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+  "shortName": "BT Dent",
+  "shortNameAr": "عيادة BT Dent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=bt-dent",
+  "phone": "+90 543 947 45 46",
+  "whatsapp": "905439474546",
+  "instagram": "https://www.instagram.com/bt.dentclinic/",
+  "address": "Şemikler, 6286. Sk. 34A, 35560 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.477169,
+    "lng": 27.091821
+  },
+  "placeId": "ChIJAWP4cJHZuxQR4PAJ-4WHZGY",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "Şemikler, 6286. Sk. 34A, 35560 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Şemikler, 6286. Sk. 34A, 35560 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: Şemikler, 6286. Sk. 34A, 35560 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Tolga",
+      "uni": {
+        "tr": "BT Dent · Karşıyaka / İzmir",
+        "en": "BT Dent · Karşıyaka / İzmir",
+        "ar": "BT Dent · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Bilge",
+      "uni": {
+        "tr": "BT Dent · Karşıyaka / İzmir",
+        "en": "BT Dent · Karşıyaka / İzmir",
+        "ar": "BT Dent · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "BT Dent Hekimleri",
+      "uni": {
+        "tr": "BT DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "BT Dent Dental Clinic · İzmir",
+        "ar": "عيادة BT Dent لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 282
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Zorlu Diş Polikliniği | Center Dental Clinic",
+  "shortName": "Zorlu Diş Kliniği",
+  "shortNameAr": "عيادة Zorlu Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=zorlu",
+  "phone": "+90 555 802 42 20",
+  "whatsapp": "905558024220",
+  "instagram": "https://www.instagram.com/zorludis/",
+  "address": "Altındağ, Güllük Cd. No: 95/ C, 07050 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8936194,
+    "lng": 30.6929948
+  },
+  "placeId": "ChIJzduZQB6QwxQRPkC5OJtelAc",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Altındağ, Güllük Cd. No: 95/ C, 07050 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Altındağ, Güllük Cd. No: 95/ C, 07050 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Altındağ, Güllük Cd. No: 95/ C, 07050 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Hüseyin",
+      "uni": {
+        "tr": "Zorlu Diş Kliniği · Muratpaşa / Antalya",
+        "en": "Zorlu Diş Kliniği · Muratpaşa / Antalya",
+        "ar": "Zorlu Diş Kliniği · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Veli",
+      "uni": {
+        "tr": "Zorlu Diş Kliniği · Muratpaşa / Antalya",
+        "en": "Zorlu Diş Kliniği · Muratpaşa / Antalya",
+        "ar": "Zorlu Diş Kliniği · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Zorlu Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Zorlu Diş Polikliniği | Center Dental Clinic",
+        "en": "Zorlu Diş Kliniği Dental Clinic · Antalya",
+        "ar": "عيادة Zorlu Diş Kliniği لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.6,
+  "reviewsCount": 248
+}

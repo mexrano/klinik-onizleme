@@ -1,0 +1,106 @@
+{
+  "name": "Adana Özel PrimeDent Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Adana Özel PrimeDent",
+  "shortNameAr": "عيادة Adana Özel PrimeDent",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=adana-primedent",
+  "phone": "+90 539 827 74 63",
+  "whatsapp": "905398277463",
+  "instagram": "https://www.instagram.com/primedental.clinic/",
+  "address": "Reşatbey, 62001. Sk. No: 28/A, 01120 Seyhan/Adana",
+  "district": "Seyhan",
+  "districtAr": "سيهان",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Seyhan",
+    "Adana",
+    "Çukurova",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "سيهان",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 36.9957117,
+    "lng": 35.3267414
+  },
+  "placeId": "ChIJ55IWAoOPKBURKTYX4UlG1DM",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Seyhan",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Seyhan",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · سيهان"
+  },
+  "accessNote": {
+    "tr": "Reşatbey, 62001. Sk. No: 28/A, 01120 Seyhan/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Reşatbey, 62001. Sk. No: 28/A, 01120 Seyhan/Adana.",
+    "ar": "في موقع مركزي: Reşatbey, 62001. Sk. No: 28/A, 01120 Seyhan/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Adana Özel PrimeDent Hekimleri",
+      "uni": {
+        "tr": "Adana Özel PrimeDent Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Adana Özel PrimeDent Dental Clinic · Adana",
+        "ar": "عيادة Adana Özel PrimeDent لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 86
+}

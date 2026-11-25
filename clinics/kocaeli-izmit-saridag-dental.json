@@ -1,0 +1,179 @@
+{
+  "name": "Kocaeli İzmit SARIDAĞ DENTAL AKADEMİ AĞIZ ve DİŞ SAĞLIĞI POLİKLİNİĞİ",
+  "shortName": "Kocaeli İzmit SARIDAĞ DENTAL",
+  "shortNameAr": "عيادة Kocaeli İzmit SARIDAĞ DENTAL",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=kocaeli-izmit-saridag-dental",
+  "phone": "+90 552 604 82 41",
+  "whatsapp": "905526048241",
+  "instagram": "https://www.instagram.com/saridag.dental.akademi/",
+  "address": "Alikahya Fatih Mahallesi, Seymen Caddesi, Muhabbet Sokak Birlik İş Merkezi, A1 Blok Kat1, 41050 İzmit/Kocaeli",
+  "district": "İzmit",
+  "districtAr": "إزميت",
+  "neighborhood": "Kocaeli",
+  "neighborhoodAr": "كوجالي",
+  "localAreas": [
+    "İzmit",
+    "Kocaeli",
+    "Yahyakaptan",
+    "Başiskele",
+    "Kartepe"
+  ],
+  "localAreasAr": [
+    "إزميت",
+    "كوجالي"
+  ],
+  "coords": {
+    "lat": 40.7755129,
+    "lng": 29.9786866
+  },
+  "placeId": "ChIJ4zw_r_lRyxQRyn8zzxgVpug",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · İzmit",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · İzmit",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · إزميت"
+  },
+  "accessNote": {
+    "tr": "Alikahya Fatih Mahallesi, Seymen Caddesi, Muhabbet Sokak Birlik İş Merkezi, A1 Blok Kat1, 41050 İzmit/Kocaeli adresinde merkezi konumda.",
+    "en": "Centrally located at Alikahya Fatih Mahallesi, Seymen Caddesi, Muhabbet Sokak Birlik İş Merkezi, A1 Blok Kat1, 41050 İzmit/Kocaeli.",
+    "ar": "في موقع مركزي: Alikahya Fatih Mahallesi, Seymen Caddesi, Muhabbet Sokak Birlik İş Merkezi, A1 Blok Kat1, 41050 İzmit/Kocaeli."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Serkan",
+      "uni": {
+        "tr": "Kocaeli İzmit SARIDAĞ DENTAL · İzmit / Kocaeli",
+        "en": "Kocaeli İzmit SARIDAĞ DENTAL · İzmit / Kocaeli",
+        "ar": "Kocaeli İzmit SARIDAĞ DENTAL · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Mehmet",
+      "uni": {
+        "tr": "Kocaeli İzmit SARIDAĞ DENTAL · İzmit / Kocaeli",
+        "en": "Kocaeli İzmit SARIDAĞ DENTAL · İzmit / Kocaeli",
+        "ar": "Kocaeli İzmit SARIDAĞ DENTAL · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Kocaeli İzmit SARIDAĞ DENTAL Hekimleri",
+      "uni": {
+        "tr": "Kocaeli İzmit SARIDAĞ DENTAL AKADEMİ AĞIZ ve DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "Kocaeli İzmit SARIDAĞ DENTAL Dental Clinic · Kocaeli",
+        "ar": "عيادة Kocaeli İzmit SARIDAĞ DENTAL لطب الأسنان · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4,
+  "reviewsCount": 66
+}

@@ -1,0 +1,107 @@
+{
+  "name": "DentVita Diş Kliniği Antalya",
+  "shortName": "DentVita",
+  "shortNameAr": "عيادة DentVita",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentvita",
+  "phone": "+90 532 449 92 77",
+  "whatsapp": "905324499277",
+  "instagram": "",
+  "address": "Güzeloba, Barınaklar Blv. No:176/2, 07230 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8582373,
+    "lng": 30.7912059
+  },
+  "placeId": "ChIJj1G-Kk6bwxQRR6f4LGQyyAg",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Güzeloba, Barınaklar Blv. No:176/2, 07230 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Güzeloba, Barınaklar Blv. No:176/2, 07230 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Güzeloba, Barınaklar Blv. No:176/2, 07230 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "DentVita Hekimleri",
+      "uni": {
+        "tr": "DentVita Diş Kliniği Antalya",
+        "en": "DentVita Dental Clinic · Antalya",
+        "ar": "عيادة DentVita لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 290
+}

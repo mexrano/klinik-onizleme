@@ -1,0 +1,178 @@
+{
+  "name": "Özel Nilüfer Arifzade Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Nilüfer Arifzade",
+  "shortNameAr": "عيادة Nilüfer Arifzade",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=nilufer-arifzade",
+  "phone": "+90 546 216 16 48",
+  "whatsapp": "905462161648",
+  "instagram": "https://www.instagram.com/arifagadispolikinligi/",
+  "address": "Çalı, 162. Sk No:2/A, 16000 Ni̇lüfer/Bursa",
+  "district": "Nilüfer",
+  "districtAr": "نيلوفر",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Nilüfer",
+    "Bursa",
+    "Osmangazi",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "نيلوفر",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.1740273,
+    "lng": 28.9232771
+  },
+  "placeId": "ChIJdyKQTqcRyhQRgByMKt7B9mk",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Nilüfer",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Nilüfer",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · نيلوفر"
+  },
+  "accessNote": {
+    "tr": "Çalı, 162. Sk No:2/A, 16000 Ni̇lüfer/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at Çalı, 162. Sk No:2/A, 16000 Ni̇lüfer/Bursa.",
+    "ar": "في موقع مركزي: Çalı, 162. Sk No:2/A, 16000 Ni̇lüfer/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Merve",
+      "uni": {
+        "tr": "Nilüfer Arifzade · Nilüfer / Bursa",
+        "en": "Nilüfer Arifzade · Nilüfer / Bursa",
+        "ar": "Nilüfer Arifzade · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Zarife",
+      "uni": {
+        "tr": "Nilüfer Arifzade · Nilüfer / Bursa",
+        "en": "Nilüfer Arifzade · Nilüfer / Bursa",
+        "ar": "Nilüfer Arifzade · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Nilüfer Arifzade Hekimleri",
+      "uni": {
+        "tr": "Özel Nilüfer Arifzade Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Nilüfer Arifzade Dental Clinic · Bursa",
+        "ar": "عيادة Nilüfer Arifzade لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.7,
+  "reviewsCount": 90
+}

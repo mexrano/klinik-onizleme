@@ -1,0 +1,106 @@
+{
+  "name": "Dent Nilüfer Ağız ve Diş Sağlığı Merkezi - Bursa Diş Hekimi - İmplant - Ortodonti - Estetik Diş Hekimliği - Çocuk Diş Hekimi",
+  "shortName": "Dent Nilüfer",
+  "shortNameAr": "عيادة Dent Nilüfer",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dent-nilufer",
+  "phone": "+90 553 333 69 68",
+  "whatsapp": "905533336968",
+  "instagram": "https://www.instagram.com/dentnilufer/",
+  "address": "Üçevler, Denizciler Cd. no: 93B, 16270 Ni̇lüfer/Bursa",
+  "district": "Nilüfer",
+  "districtAr": "نيلوفر",
+  "neighborhood": "Bursa",
+  "neighborhoodAr": "بورصة",
+  "localAreas": [
+    "Nilüfer",
+    "Bursa",
+    "Osmangazi",
+    "Yıldırım"
+  ],
+  "localAreasAr": [
+    "نيلوفر",
+    "بورصة"
+  ],
+  "coords": {
+    "lat": 40.1951941,
+    "lng": 28.9478025
+  },
+  "placeId": "ChIJ-33XntgRyhQRPeF39XcGXqg",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Nilüfer",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Nilüfer",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · نيلوفر"
+  },
+  "accessNote": {
+    "tr": "Üçevler, Denizciler Cd. no: 93B, 16270 Ni̇lüfer/Bursa adresinde merkezi konumda.",
+    "en": "Centrally located at Üçevler, Denizciler Cd. no: 93B, 16270 Ni̇lüfer/Bursa.",
+    "ar": "في موقع مركزي: Üçevler, Denizciler Cd. no: 93B, 16270 Ni̇lüfer/Bursa."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dent Nilüfer Hekimleri",
+      "uni": {
+        "tr": "Dent Nilüfer Ağız ve Diş Sağlığı Merkezi - Bursa Diş Hekimi - İmplant - Ortodonti - Estetik Diş Hekimliği - Çocuk Diş Hekimi",
+        "en": "Dent Nilüfer Dental Clinic · Bursa",
+        "ar": "عيادة Dent Nilüfer لطب الأسنان · بورصة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 807
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Özel Çukurova Dental Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Çukurova Dental",
+  "shortNameAr": "عيادة Çukurova Dental",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=cukurova-dental",
+  "phone": "+90 537 321 98 76",
+  "whatsapp": "905373219876",
+  "instagram": "https://www.instagram.com/ozelcukurovadental/",
+  "address": "Yurt, Turgut Özal Blv. no:166/b, 01170 Çukurova/Adana",
+  "district": "Çukurova",
+  "districtAr": "تشوكوروفا",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Çukurova",
+    "Adana",
+    "Seyhan",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "تشوكوروفا",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 37.0488624,
+    "lng": 35.2843079
+  },
+  "placeId": "ChIJo3j-EeKJKBURelWuGDZze4s",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Çukurova",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Çukurova",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · تشوكوروفا"
+  },
+  "accessNote": {
+    "tr": "Yurt, Turgut Özal Blv. no:166/b, 01170 Çukurova/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Yurt, Turgut Özal Blv. no:166/b, 01170 Çukurova/Adana.",
+    "ar": "في موقع مركزي: Yurt, Turgut Özal Blv. no:166/b, 01170 Çukurova/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Onur",
+      "uni": {
+        "tr": "Çukurova Dental · Çukurova / Adana",
+        "en": "Çukurova Dental · Çukurova / Adana",
+        "ar": "Çukurova Dental · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Çukurova Dental Hekimleri",
+      "uni": {
+        "tr": "Özel Çukurova Dental Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Çukurova Dental Dental Clinic · Adana",
+        "ar": "عيادة Çukurova Dental لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 48
+}

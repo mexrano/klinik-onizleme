@@ -1,0 +1,107 @@
+{
+  "name": "Batıkent Ağız Ve Diş Sağlığı Polikliniği",
+  "shortName": "Batıkent Diş Kliniği",
+  "shortNameAr": "عيادة Batıkent Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=batikent",
+  "phone": "+90 552 563 39 78",
+  "whatsapp": "905525633978",
+  "instagram": "https://www.instagram.com/batikentortodontist_eda/",
+  "address": "Batı Sitesi Mahallesi, Batıkent, 2333. Cadde No:23-/AA, 06370 Yenimahalle/Ankara",
+  "district": "Yenimahalle",
+  "districtAr": "يني محلة",
+  "neighborhood": "Ankara",
+  "neighborhoodAr": "أنقرة",
+  "localAreas": [
+    "Yenimahalle",
+    "Ankara",
+    "Çankaya",
+    "Keçiören",
+    "Etimesgut"
+  ],
+  "localAreasAr": [
+    "يني محلة",
+    "أنقرة"
+  ],
+  "coords": {
+    "lat": 39.9623615,
+    "lng": 32.7017156
+  },
+  "placeId": "ChIJn_nwTnk30xQRiIaCXN8Qya4",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Yenimahalle",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Yenimahalle",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · يني محلة"
+  },
+  "accessNote": {
+    "tr": "Batı Sitesi Mahallesi, Batıkent, 2333. Cadde No:23-/AA, 06370 Yenimahalle/Ankara adresinde merkezi konumda.",
+    "en": "Centrally located at Batı Sitesi Mahallesi, Batıkent, 2333. Cadde No:23-/AA, 06370 Yenimahalle/Ankara.",
+    "ar": "في موقع مركزي: Batı Sitesi Mahallesi, Batıkent, 2333. Cadde No:23-/AA, 06370 Yenimahalle/Ankara."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Batıkent Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Batıkent Ağız Ve Diş Sağlığı Polikliniği",
+        "en": "Batıkent Diş Kliniği Dental Clinic · Ankara",
+        "ar": "عيادة Batıkent Diş Kliniği لطب الأسنان · أنقرة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.7,
+  "reviewsCount": 246
+}

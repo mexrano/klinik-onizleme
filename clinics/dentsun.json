@@ -1,0 +1,182 @@
+{
+  "name": "Özel Dentsun Diş Polikliniği 7/24 Karşıyaka",
+  "shortName": "Dentsun",
+  "shortNameAr": "عيادة Dentsun",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentsun",
+  "phone": "+90 506 435 12 70",
+  "whatsapp": "905064351270",
+  "instagram": "https://www.instagram.com/dentsuninternational/",
+  "address": "Örnekköy, Nazım Hikmet Blv 171A, 35575 Karşıyaka/İzmir",
+  "district": "Karşıyaka",
+  "districtAr": "كارشياكا",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karşıyaka",
+    "İzmir",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كارشياكا",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.4832206,
+    "lng": 27.1103656
+  },
+  "placeId": "ChIJhT7ox1nXuxQRpbRiHiIU9GM",
+  "hours": [
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ]
+  ],
+  "stripNote": {
+    "tr": "7/24 Acil Diş · Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karşıyaka",
+    "en": "24/7 Emergency · Digital X-ray · 3D Planning · B-Class Sterilisation · Karşıyaka",
+    "ar": "طوارئ 24/7 · أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كارشياكا"
+  },
+  "accessNote": {
+    "tr": "Örnekköy, Nazım Hikmet Blv 171A, 35575 Karşıyaka/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Örnekköy, Nazım Hikmet Blv 171A, 35575 Karşıyaka/İzmir.",
+    "ar": "في موقع مركزي: Örnekköy, Nazım Hikmet Blv 171A, 35575 Karşıyaka/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Burçin",
+      "uni": {
+        "tr": "Dentsun · Karşıyaka / İzmir",
+        "en": "Dentsun · Karşıyaka / İzmir",
+        "ar": "Dentsun · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Melek",
+      "uni": {
+        "tr": "Dentsun · Karşıyaka / İzmir",
+        "en": "Dentsun · Karşıyaka / İzmir",
+        "ar": "Dentsun · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentsun Hekimleri",
+      "uni": {
+        "tr": "Özel Dentsun Diş Polikliniği 7/24 Karşıyaka",
+        "en": "Dentsun Dental Clinic · İzmir",
+        "ar": "عيادة Dentsun لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.7,
+  "reviewsCount": 658
+}

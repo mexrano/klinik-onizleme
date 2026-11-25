@@ -1,0 +1,143 @@
+{
+  "name": "DENTANTALYA Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dentantalya",
+  "shortNameAr": "عيادة Dentantalya",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentantalya",
+  "phone": "+90 553 266 90 90",
+  "whatsapp": "905532669090",
+  "instagram": "https://www.instagram.com/dentantalyaclinic/",
+  "address": "Güzeloba, Rauf Denktaş Cd 7/A, 07230 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8620776,
+    "lng": 30.7908858
+  },
+  "placeId": "ChIJzUyh302bwxQRFNTpBXYgIrk",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Güzeloba, Rauf Denktaş Cd 7/A, 07230 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Güzeloba, Rauf Denktaş Cd 7/A, 07230 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Güzeloba, Rauf Denktaş Cd 7/A, 07230 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Gizem",
+      "uni": {
+        "tr": "Dentantalya · Muratpaşa / Antalya",
+        "en": "Dentantalya · Muratpaşa / Antalya",
+        "ar": "Dentantalya · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentantalya Hekimleri",
+      "uni": {
+        "tr": "DENTANTALYA Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dentantalya Dental Clinic · Antalya",
+        "ar": "عيادة Dentantalya لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.7,
+  "reviewsCount": 284
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Antalya Dentsun International 7/24 Diş Polikliniği",
+  "shortName": "Antalya Dentsun International 7/24",
+  "shortNameAr": "عيادة Antalya Dentsun International 7/24",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=antalya-dentsun-international-",
+  "phone": "+90 549 105 55 07",
+  "whatsapp": "905491055507",
+  "instagram": "https://www.instagram.com/dentsuninternational/",
+  "address": "Muratpaşa, Şair Adem Dede Cd. No:31, 07030 Muratpaşa/Antalya",
+  "district": "Muratpaşa",
+  "districtAr": "مراد باشا",
+  "neighborhood": "Antalya",
+  "neighborhoodAr": "أنطاليا",
+  "localAreas": [
+    "Muratpaşa",
+    "Antalya",
+    "Lara",
+    "Konyaaltı",
+    "Kepez"
+  ],
+  "localAreasAr": [
+    "مراد باشا",
+    "أنطاليا"
+  ],
+  "coords": {
+    "lat": 36.8985079,
+    "lng": 30.707463
+  },
+  "placeId": "ChIJtz4w4h6PwxQRNRJfq9sZ9oQ",
+  "hours": [
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ]
+  ],
+  "stripNote": {
+    "tr": "7/24 Acil Diş · Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Muratpaşa",
+    "en": "24/7 Emergency · Digital X-ray · 3D Planning · B-Class Sterilisation · Muratpaşa",
+    "ar": "طوارئ 24/7 · أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · مراد باشا"
+  },
+  "accessNote": {
+    "tr": "Muratpaşa, Şair Adem Dede Cd. No:31, 07030 Muratpaşa/Antalya adresinde merkezi konumda.",
+    "en": "Centrally located at Muratpaşa, Şair Adem Dede Cd. No:31, 07030 Muratpaşa/Antalya.",
+    "ar": "في موقع مركزي: Muratpaşa, Şair Adem Dede Cd. No:31, 07030 Muratpaşa/Antalya."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Berke",
+      "uni": {
+        "tr": "Antalya Dentsun International 7/24 · Muratpaşa / Antalya",
+        "en": "Antalya Dentsun International 7/24 · Muratpaşa / Antalya",
+        "ar": "Antalya Dentsun International 7/24 · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Feryal",
+      "uni": {
+        "tr": "Antalya Dentsun International 7/24 · Muratpaşa / Antalya",
+        "en": "Antalya Dentsun International 7/24 · Muratpaşa / Antalya",
+        "ar": "Antalya Dentsun International 7/24 · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Antalya Dentsun International 7/24 Hekimleri",
+      "uni": {
+        "tr": "Antalya Dentsun International 7/24 Diş Polikliniği",
+        "en": "Antalya Dentsun International 7/24 Dental Clinic · Antalya",
+        "ar": "عيادة Antalya Dentsun International 7/24 لطب الأسنان · أنطاليا"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 417
+}

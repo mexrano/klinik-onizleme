@@ -1,0 +1,178 @@
+{
+  "name": "Kadıköy - Diş Kliniği | Dt. Erdem Can & Kanal Tedavisi Uzmanı Ezgi Orhan | Moda & Caferağa",
+  "shortName": "Kadıköy Diş Kliniği",
+  "shortNameAr": "عيادة Kadıköy Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=kadikoy",
+  "phone": "+90 531 231 24 34",
+  "whatsapp": "905312312434",
+  "instagram": "",
+  "address": "Caferağa, Gen. Asım Gündüz Caddesi No:78 K:1 D:1, 34734 Kadıköy/İstanbul",
+  "district": "Kadıköy",
+  "districtAr": "كاديكوي",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": [
+    "Kadıköy",
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
+  ],
+  "localAreasAr": [
+    "كاديكوي",
+    "إسطنبول"
+  ],
+  "coords": {
+    "lat": 40.9865022,
+    "lng": 29.027859
+  },
+  "placeId": "ChIJx97oHAa5yhQRBtDbLJksOWw",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Kadıköy",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Kadıköy",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كاديكوي"
+  },
+  "accessNote": {
+    "tr": "Caferağa, Gen. Asım Gündüz Caddesi No:78 K:1 D:1, 34734 Kadıköy/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Caferağa, Gen. Asım Gündüz Caddesi No:78 K:1 D:1, 34734 Kadıköy/İstanbul.",
+    "ar": "في موقع مركزي: Caferağa, Gen. Asım Gündüz Caddesi No:78 K:1 D:1, 34734 Kadıköy/İstanbul."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Erdem Can",
+      "uni": {
+        "tr": "Kadıköy Diş Kliniği · Kadıköy / İstanbul",
+        "en": "Kadıköy Diş Kliniği · Kadıköy / İstanbul",
+        "ar": "Kadıköy Diş Kliniği · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Ezgi",
+      "uni": {
+        "tr": "Kadıköy Diş Kliniği · Kadıköy / İstanbul",
+        "en": "Kadıköy Diş Kliniği · Kadıköy / İstanbul",
+        "ar": "Kadıköy Diş Kliniği · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Kadıköy Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Kadıköy - Diş Kliniği | Dt. Erdem Can & Kanal Tedavisi Uzmanı Ezgi Orhan | Moda & Caferağa",
+        "en": "Kadıköy Diş Kliniği Dental Clinic · İstanbul",
+        "ar": "عيادة Kadıköy Diş Kliniği لطب الأسنان · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 167
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Mecidiyeköy Diş Kliniği 2 Kıta - Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Mecidiyeköy Diş Kliniği",
+  "shortNameAr": "عيادة Mecidiyeköy Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=mecidiyekoy",
+  "phone": "+90 530 889 24 12",
+  "whatsapp": "905308892412",
+  "instagram": "",
+  "address": "Mecidiyeköy Mahallesi, Mecidiyeköy Yolu Cd. 10A, 34387 Şişli/İstanbul",
+  "district": "Şişli",
+  "districtAr": "شيشلي",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": [
+    "Şişli",
+    "İstanbul",
+    "Avrupa Yakası",
+    "Anadolu Yakası"
+  ],
+  "localAreasAr": [
+    "شيشلي",
+    "إسطنبول"
+  ],
+  "coords": {
+    "lat": 41.067261,
+    "lng": 28.993167
+  },
+  "placeId": "ChIJtXcAh_63yhQRTZeVkvA3nfE",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Şişli",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Şişli",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · شيشلي"
+  },
+  "accessNote": {
+    "tr": "Mecidiyeköy Mahallesi, Mecidiyeköy Yolu Cd. 10A, 34387 Şişli/İstanbul adresinde merkezi konumda.",
+    "en": "Centrally located at Mecidiyeköy Mahallesi, Mecidiyeköy Yolu Cd. 10A, 34387 Şişli/İstanbul.",
+    "ar": "في موقع مركزي: Mecidiyeköy Mahallesi, Mecidiyeköy Yolu Cd. 10A, 34387 Şişli/İstanbul."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Mecidiyeköy Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Mecidiyeköy Diş Kliniği 2 Kıta - Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Mecidiyeköy Diş Kliniği Dental Clinic · İstanbul",
+        "ar": "عيادة Mecidiyeköy Diş Kliniği لطب الأسنان · إسطنبول"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.4,
+  "reviewsCount": 242
+}

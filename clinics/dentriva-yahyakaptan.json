@@ -1,0 +1,146 @@
+{
+  "name": "Dentriva Diş Yahyakaptan - İzmit İmplant-İzmit Nöbetçi Diş-İzmit Diş Teli-İzmit Çocuk Diş-İzmit Ortodonti-İzmit Pedodonti",
+  "shortName": "Dentriva Diş Yahyakaptan",
+  "shortNameAr": "عيادة Dentriva Diş Yahyakaptan",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dentriva-yahyakaptan",
+  "phone": "+90 533 465 24 72",
+  "whatsapp": "905334652472",
+  "instagram": "https://www.instagram.com/dentriva_dis/",
+  "address": "Yenişehir, Demokrasi Cd. No:49, 41040 İzmit/Kocaeli",
+  "district": "İzmit",
+  "districtAr": "إزميت",
+  "neighborhood": "Kocaeli",
+  "neighborhoodAr": "كوجالي",
+  "localAreas": [
+    "İzmit",
+    "Kocaeli",
+    "Yahyakaptan",
+    "Başiskele",
+    "Kartepe"
+  ],
+  "localAreasAr": [
+    "إزميت",
+    "كوجالي"
+  ],
+  "coords": {
+    "lat": 40.7631734,
+    "lng": 29.9613925
+  },
+  "placeId": "ChIJ2Sqq-xNPyxQRWrVl0dxQ1mw",
+  "hours": [
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ],
+    [
+      "00:00",
+      "23:59"
+    ]
+  ],
+  "stripNote": {
+    "tr": "7/24 Acil Diş · Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · İzmit",
+    "en": "24/7 Emergency · Digital X-ray · 3D Planning · B-Class Sterilisation · İzmit",
+    "ar": "طوارئ 24/7 · أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · إزميت"
+  },
+  "accessNote": {
+    "tr": "Yenişehir, Demokrasi Cd. No:49, 41040 İzmit/Kocaeli adresinde merkezi konumda.",
+    "en": "Centrally located at Yenişehir, Demokrasi Cd. No:49, 41040 İzmit/Kocaeli.",
+    "ar": "في موقع مركزي: Yenişehir, Demokrasi Cd. No:49, 41040 İzmit/Kocaeli."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Rıdvan",
+      "uni": {
+        "tr": "Dentriva Diş Yahyakaptan · İzmit / Kocaeli",
+        "en": "Dentriva Diş Yahyakaptan · İzmit / Kocaeli",
+        "ar": "Dentriva Diş Yahyakaptan · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dentriva Diş Yahyakaptan Hekimleri",
+      "uni": {
+        "tr": "Dentriva Diş Yahyakaptan - İzmit İmplant-İzmit Nöbetçi Diş-İzmit Diş Teli-İzmit Çocuk Diş-İzmit Ortodonti-İzmit Pedodonti",
+        "en": "Dentriva Diş Yahyakaptan Dental Clinic · Kocaeli",
+        "ar": "عيادة Dentriva Diş Yahyakaptan لطب الأسنان · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.8,
+  "reviewsCount": 1434
+}

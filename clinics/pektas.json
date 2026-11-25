@@ -1,0 +1,106 @@
+{
+  "name": "Pektaş Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Pektaş Diş Kliniği",
+  "shortNameAr": "عيادة Pektaş Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=pektas",
+  "phone": "+90 544 104 94 35",
+  "whatsapp": "905441049435",
+  "instagram": "",
+  "address": "Reşatbey, Stadyum Cd No:45/A, 01100 Seyhan/Adana",
+  "district": "Seyhan",
+  "districtAr": "سيهان",
+  "neighborhood": "Adana",
+  "neighborhoodAr": "أضنة",
+  "localAreas": [
+    "Seyhan",
+    "Adana",
+    "Çukurova",
+    "Yüreğir"
+  ],
+  "localAreasAr": [
+    "سيهان",
+    "أضنة"
+  ],
+  "coords": {
+    "lat": 36.997445,
+    "lng": 35.3274709
+  },
+  "placeId": "ChIJd0k4FeGPKBURe-SqZ6Q-nR8",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Seyhan",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Seyhan",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · سيهان"
+  },
+  "accessNote": {
+    "tr": "Reşatbey, Stadyum Cd No:45/A, 01100 Seyhan/Adana adresinde merkezi konumda.",
+    "en": "Centrally located at Reşatbey, Stadyum Cd No:45/A, 01100 Seyhan/Adana.",
+    "ar": "في موقع مركزي: Reşatbey, Stadyum Cd No:45/A, 01100 Seyhan/Adana."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Pektaş Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Pektaş Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Pektaş Diş Kliniği Dental Clinic · Adana",
+        "ar": "عيادة Pektaş Diş Kliniği لطب الأسنان · أضنة"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 52
+}

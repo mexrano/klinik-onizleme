@@ -1,0 +1,179 @@
+{
+  "name": "Özel Donatım Ağız ve Diş Sağlığı Polikliniği İzmit",
+  "shortName": "Donatım Diş Kliniği",
+  "shortNameAr": "عيادة Donatım Diş Kliniği",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=donatim",
+  "phone": "+90 553 372 85 66",
+  "whatsapp": "905533728566",
+  "instagram": "",
+  "address": "Karabaş, Leyla Atakan Cd. No:10, 41040 İzmit/Kocaeli",
+  "district": "İzmit",
+  "districtAr": "إزميت",
+  "neighborhood": "Kocaeli",
+  "neighborhoodAr": "كوجالي",
+  "localAreas": [
+    "İzmit",
+    "Kocaeli",
+    "Yahyakaptan",
+    "Başiskele",
+    "Kartepe"
+  ],
+  "localAreasAr": [
+    "إزميت",
+    "كوجالي"
+  ],
+  "coords": {
+    "lat": 40.7632285,
+    "lng": 29.9349463
+  },
+  "placeId": "ChIJc4Ezk31FyxQRr_yQTY7IQB8",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · İzmit",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · İzmit",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · إزميت"
+  },
+  "accessNote": {
+    "tr": "Karabaş, Leyla Atakan Cd. No:10, 41040 İzmit/Kocaeli adresinde merkezi konumda.",
+    "en": "Centrally located at Karabaş, Leyla Atakan Cd. No:10, 41040 İzmit/Kocaeli.",
+    "ar": "في موقع مركزي: Karabaş, Leyla Atakan Cd. No:10, 41040 İzmit/Kocaeli."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Serkan",
+      "uni": {
+        "tr": "Donatım Diş Kliniği · İzmit / Kocaeli",
+        "en": "Donatım Diş Kliniği · İzmit / Kocaeli",
+        "ar": "Donatım Diş Kliniği · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc2.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Merhaba Yusuf",
+      "uni": {
+        "tr": "Donatım Diş Kliniği · İzmit / Kocaeli",
+        "en": "Donatım Diş Kliniği · İzmit / Kocaeli",
+        "ar": "Donatım Diş Kliniği · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Kanal Tedavisi",
+          "Gülüş Tasarımı",
+          "Diş Beyazlatma"
+        ],
+        "en": [
+          "Endodontics",
+          "Smile Design",
+          "Whitening"
+        ],
+        "ar": [
+          "علاج العصب",
+          "تصميم الابتسامة",
+          "تبييض الأسنان"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Donatım Diş Kliniği Hekimleri",
+      "uni": {
+        "tr": "Özel Donatım Ağız ve Diş Sağlığı Polikliniği İzmit",
+        "en": "Donatım Diş Kliniği Dental Clinic · Kocaeli",
+        "ar": "عيادة Donatım Diş Kliniği لطب الأسنان · كوجالي"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.3,
+  "reviewsCount": 240
+}

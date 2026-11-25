@@ -1,0 +1,108 @@
+{
+  "name": "Özel DENT KONAK Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Dent Konak",
+  "shortNameAr": "عيادة Dent Konak",
+  "url": "https://klinik-onizleme-ten.vercel.app/?c=dent-konak",
+  "phone": "+90 544 112 14 14",
+  "whatsapp": "905441121414",
+  "instagram": "https://www.instagram.com/ozeldentkonak/",
+  "address": "Yunus Emre, 4012. Sk. No:93, 35130 Karabağlar/İzmir",
+  "district": "Karabağlar",
+  "districtAr": "كاراباغلار",
+  "neighborhood": "İzmir",
+  "neighborhoodAr": "إزمير",
+  "localAreas": [
+    "Karabağlar",
+    "İzmir",
+    "Karşıyaka",
+    "Bornova",
+    "Konak",
+    "Çiğli"
+  ],
+  "localAreasAr": [
+    "كاراباغلار",
+    "إزمير"
+  ],
+  "coords": {
+    "lat": 38.3755052,
+    "lng": 27.1307935
+  },
+  "placeId": "ChIJfeCy-x7fuxQRXFhjDQhMCUI",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "19:30"
+    ],
+    [
+      "09:00",
+      "18:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Dijital Röntgen · 3D Planlama · B-Class Sterilizasyon · Karabağlar",
+    "en": "Digital X-ray · 3D Planning · B-Class Sterilisation · Karabağlar",
+    "ar": "أشعة رقمية · تخطيط ثلاثي الأبعاد · تعقيم فئة B · كاراباغلار"
+  },
+  "accessNote": {
+    "tr": "Yunus Emre, 4012. Sk. No:93, 35130 Karabağlar/İzmir adresinde merkezi konumda.",
+    "en": "Centrally located at Yunus Emre, 4012. Sk. No:93, 35130 Karabağlar/İzmir.",
+    "ar": "في موقع مركزي: Yunus Emre, 4012. Sk. No:93, 35130 Karabağlar/İzmir."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Dent Konak Hekimleri",
+      "uni": {
+        "tr": "Özel DENT KONAK Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Dent Konak Dental Clinic · İzmir",
+        "ar": "عيادة Dent Konak لطب الأسنان · إزمير"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik Dolgu",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Restorative Care",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "حشوات تجميلية",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 132
+}
