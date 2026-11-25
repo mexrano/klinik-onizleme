@@ -1,0 +1,151 @@
+{
+  "name": "Parola Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Parola Diş",
+  "shortNameAr": "عيادة بارولا",
+  "url": "https://www.paroladis.com/",
+  "phone": "+90 535 442 35 35",
+  "whatsapp": "905354423535",
+  "instagram": "",
+  "address": "Kayabaşı Mah., Gazi Yaşargil Cad., Park Mavera 1 Sitesi A05 Blok No:15DN, 34494 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Kayabaşı · Park Mavera 1",
+  "neighborhoodAr": "كاياباشي · بارك مافيرا 1",
+  "localAreas": [
+    "Başakşehir",
+    "Kayabaşı",
+    "Park Mavera",
+    "Kayaşehir",
+    "Bahçeşehir",
+    "İkitelli"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياباشي",
+    "بارك مافيرا",
+    "كاياشهير",
+    "باهجة شهير",
+    "إيكيتيلي"
+  ],
+  "coords": {
+    "lat": 41.1182049,
+    "lng": 28.7713489
+  },
+  "placeId": "ChIJrU6MimSvyhQRk2p51aIqviM",
+  "hours": [
+    [
+      "11:00",
+      "20:00"
+    ],
+    [
+      "11:00",
+      "20:00"
+    ],
+    [
+      "11:00",
+      "20:00"
+    ],
+    [
+      "11:00",
+      "20:00"
+    ],
+    [
+      "11:00",
+      "20:00"
+    ],
+    [
+      "11:00",
+      "20:00"
+    ],
+    [
+      "11:00",
+      "20:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Sterilizasyon · Dijital röntgen · 2 katlı ferah klinik · Otopark",
+    "en": "Sterilisation · Digital X-ray · 2-floor spacious clinic · Parking",
+    "ar": "تعقيم · أشعة رقمية · عيادة واسعة من طابقين · موقف سيارات"
+  },
+  "accessNote": {
+    "tr": "Kayabaşı Park Mavera 1 Sitesi A05 Blok'ta, merkezi konumda.",
+    "en": "At Park Mavera 1 (A05 Block) on Gazi Yaşargil Street in Kayabaşı.",
+    "ar": "في مجمع بارك مافيرا 1 (بلوك A05) على شارع غازي ياشارغيل."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Ahmet Arap",
+      "uni": {
+        "tr": "Kurucu Diş Hekimi · Parola Polikliniği",
+        "en": "Lead Dentist · Parola Polyclinic",
+        "ar": "طبيب الأسنان المؤسس · عيادة بارولا"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik Diş Hekimliği",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Cosmetic Dentistry",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة وجراحة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "AR",
+        "EN"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Hekim Kadromuz",
+        "en": "Clinical Team",
+        "ar": "الفريق الطبي"
+      },
+      "name": "Parola Diş Hekimleri",
+      "uni": {
+        "tr": "Parola Ağız ve Diş Sağlığı Polikliniği",
+        "en": "Parola Dental Polyclinic",
+        "ar": "عيادة بارولا لصحة الفم والأسنان"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Kanal Tedavisi",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Endodontics",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "علاج العصب",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "AR",
+        "EN"
+      ]
+    }
+  ],
+  "rating": 5,
+  "reviewsCount": 104
+}

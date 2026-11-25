@@ -1,0 +1,152 @@
+{
+  "name": "Özel Çelikkaya Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Çelikkaya",
+  "shortNameAr": "تشيلك كايا",
+  "url": "https://dentck.com.tr/",
+  "phone": "+90 532 355 52 96",
+  "whatsapp": "905323555296",
+  "instagram": "https://www.instagram.com/celikkayadent/",
+  "address": "Kayabaşı Mah., Bozcaada Cad. No:7/1, Fenertepe, 34494 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "Kayabaşı · Fenertepe",
+  "neighborhoodAr": "كاياباشي · فنرتبه",
+  "localAreas": [
+    "Başakşehir",
+    "Kayabaşı",
+    "Fenertepe",
+    "Kayaşehir",
+    "Bahçeşehir",
+    "İkitelli"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياباشي",
+    "فنرتبه",
+    "كاياشهير",
+    "باهجة شهير",
+    "إيكيتيلي"
+  ],
+  "coords": {
+    "lat": 41.1322169,
+    "lng": 28.7816324
+  },
+  "placeId": "ChIJow1oy0uvyhQReBKvwtC67Ns",
+  "hours": [
+    null,
+    [
+      "09:00",
+      "19:00"
+    ],
+    [
+      "09:00",
+      "19:00"
+    ],
+    [
+      "09:00",
+      "19:00"
+    ],
+    [
+      "09:00",
+      "19:00"
+    ],
+    [
+      "09:00",
+      "19:00"
+    ],
+    [
+      "09:00",
+      "19:00"
+    ]
+  ],
+  "stripNote": {
+    "tr": "Sterilizasyon · Dijital röntgen · Engelsiz erişim · Otopark",
+    "en": "Sterilisation · Digital X-ray · Step-free access · Parking",
+    "ar": "تعقيم · أشعة رقمية · مدخل ميسّر · موقف سيارات"
+  },
+  "accessNote": {
+    "tr": "Kayabaşı Fenertepe Bozcaada Caddesi'nde, engelsiz giriş ve otopark ile.",
+    "en": "On Bozcaada Street in Kayabaşı Fenertepe, with wheelchair access and parking.",
+    "ar": "في كاياباشي فنرتبه على شارع بوزجاأدا مع مدخل ميسّر وموقف سيارات."
+  },
+  "insuranceNote": {
+    "tr": "Anadolu Sigorta ve diğer anlaşmalı kurumlar için WhatsApp'tan bilgi alabilirsiniz. Poliçenizi iletirseniz kapsamı birlikte kontrol ederiz.",
+    "en": "Ask us on WhatsApp about Anadolu Sigorta and other partner insurers. Send us your policy and we will check the coverage together.",
+    "ar": "اسألنا عبر واتساب عن Anadolu Sigorta وشركات التأمين المتعاقدة. أرسل لنا وثيقتك وسنراجع التغطية معًا."
+  },
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Serkan Naif Keleş",
+      "uni": {
+        "tr": "Diş Hekimi · Çelikkaya Polikliniği",
+        "en": "Dentist · Çelikkaya Polyclinic",
+        "ar": "طبيب أسنان · عيادة تشيلك كايا"
+      },
+      "tags": {
+        "tr": [
+          "Estetik Dolgu",
+          "Kanal & Tedavi",
+          "Protez"
+        ],
+        "en": [
+          "Restorative",
+          "Endodontics",
+          "Prosthetics"
+        ],
+        "ar": [
+          "الحشوات التجميلية",
+          "علاج العصب",
+          "التركيبات"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيبة أسنان"
+      },
+      "name": "Negin Hanım",
+      "uni": {
+        "tr": "Diş Hekimi · Çelikkaya Polikliniği",
+        "en": "Dentist · Çelikkaya Polyclinic",
+        "ar": "طبيبة أسنان · عيادة تشيلك كايا"
+      },
+      "tags": {
+        "tr": [
+          "Diş Eti & Temizlik",
+          "Estetik",
+          "Koruyucu Hekimlik"
+        ],
+        "en": [
+          "Periodontal Care",
+          "Aesthetics",
+          "Preventive Care"
+        ],
+        "ar": [
+          "علاج اللثة والتنظيف",
+          "تجميل الأسنان",
+          "طب الأسنان الوقائي"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ],
+  "rating": 4.9,
+  "reviewsCount": 227
+}

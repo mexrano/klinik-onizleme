@@ -1,0 +1,133 @@
+{
+  "name": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+  "shortName": "Ayyıldız Diş",
+  "shortNameAr": "Ayyıldız Diş",
+  "url": "",
+  "phone": "+90 530 391 99 32",
+  "whatsapp": "905303919932",
+  "instagram": "",
+  "address": "KAYABAŞI MAHALLESİ.KAYAŞEHİR BULVARI.SEYRANŞEHİR D, D:3 BLOK NO: 15 C İÇ KAPI NO: 10-11, 34490 Başakşehir/İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "KAYABAŞI",
+  "neighborhoodAr": "باشاك شهير",
+  "localAreas": [
+    "Başakşehir",
+    "Kayaşehir",
+    "Kayabaşı",
+    "Bahçeşehir",
+    "Fenertepe"
+  ],
+  "localAreasAr": [
+    "باشاك شهير",
+    "كاياشهير",
+    "كاياباشي",
+    "باهجة شهير",
+    "فنرتبه"
+  ],
+  "coords": {
+    "lat": 41.1026351,
+    "lng": 28.7620203
+  },
+  "hours": [
+    null,
+    [
+      "09:00",
+      "22:00"
+    ],
+    [
+      "09:00",
+      "22:00"
+    ],
+    [
+      "09:00",
+      "22:00"
+    ],
+    [
+      "09:00",
+      "22:00"
+    ],
+    [
+      "09:00",
+      "22:00"
+    ],
+    [
+      "09:00",
+      "19:00"
+    ]
+  ],
+  "doctors": [
+    {
+      "photo": "/img/doc1.webp",
+      "title": {
+        "tr": "Dt.",
+        "en": "Dentist",
+        "ar": "طبيب أسنان"
+      },
+      "name": "Emre Köse",
+      "uni": {
+        "tr": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "ar": "Ayyıldız Diş"
+      },
+      "tags": {
+        "tr": [
+          "İmplant & Cerrahi",
+          "Estetik",
+          "Zirkonyum"
+        ],
+        "en": [
+          "Implants & Surgery",
+          "Aesthetics",
+          "Zirconia"
+        ],
+        "ar": [
+          "زراعة الأسنان",
+          "تجميل الأسنان",
+          "زركونيوم"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    },
+    {
+      "photo": "/img/doc3.webp",
+      "title": {
+        "tr": "Uzman Kadro",
+        "en": "Clinical Team",
+        "ar": "الفريق المتخصص"
+      },
+      "name": "Ayyıldız Diş Hekimleri",
+      "uni": {
+        "tr": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "en": "ÖZEL AYYILDIZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+        "ar": "Ayyıldız Diş"
+      },
+      "tags": {
+        "tr": [
+          "Ortodonti",
+          "Estetik",
+          "Çocuk Diş Hekimliği"
+        ],
+        "en": [
+          "Orthodontics",
+          "Aesthetics",
+          "Pediatric Care"
+        ],
+        "ar": [
+          "تقويم الأسنان",
+          "تجميل الأسنان",
+          "طب أسنان الأطفال"
+        ]
+      },
+      "langs": [
+        "TR",
+        "EN",
+        "AR"
+      ]
+    }
+  ]
+}

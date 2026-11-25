@@ -1,0 +1,25 @@
+{
+  "name": "Özel İstanbul Ağız ve Diş Sağlığı Polikliniği",
+  "shortName": "Diş Polikliniği",
+  "shortNameAr": "عيادة الأسنان",
+  "phone": "+90 500 000 00 00",
+  "whatsapp": "905000000000",
+  "instagram": "",
+  "address": "Başakşehir / İstanbul",
+  "district": "Başakşehir",
+  "districtAr": "باشاك شهير",
+  "neighborhood": "İstanbul",
+  "neighborhoodAr": "إسطنبول",
+  "localAreas": ["Başakşehir", "Kayabaşı", "Bahçeşehir", "Kayaşehir", "İkitelli"],
+  "localAreasAr": ["باشاك شهير", "كاياباشي", "باهجة شهير", "كاياشهير", "إيكيتيلي"],
+  "coords": { "lat": 41.1190951, "lng": 28.7669229 },
+  "hours": [
+    null,
+    ["09:00", "20:00"],
+    ["09:00", "20:00"],
+    ["09:00", "20:00"],
+    ["09:00", "20:00"],
+    ["09:00", "20:00"],
+    ["09:00", "20:00"]
+  ]
+}
